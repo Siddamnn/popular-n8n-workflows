@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "c4c16a6c598577c1dc79126eadef39ef3bf29edb",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": ":mega: We Need Your Help! (Answer & Earn)",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 32313,
+      "likes": 574,
+      "comments": 110,
+      "upvotes": 574,
+      "like_to_view_ratio": 0.0177637483365828
+    },
+    "country": "unknown",
+    "source_id": "80361",
+    "url": "https://community.n8n.io/t/80361",
+    "collected_at": "2025-09-02T11:10:03.237322+00:00",
+    "score": 1.0,
+    "schema_version": "3"
+  },
+  {
+    "id": "e6c38c6fae368b20ea9bc9286d2b156080532306",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Welcome to the n8n Community!",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 12824,
+      "likes": 67,
+      "comments": 0,
+      "upvotes": 67,
+      "like_to_view_ratio": 0.005224578914535247
+    },
+    "country": "unknown",
+    "source_id": "7",
+    "url": "https://community.n8n.io/t/7",
+    "collected_at": "2025-09-02T11:10:03.238322+00:00",
+    "score": 0.193765,
+    "schema_version": "3"
+  },
+  {
+    "id": "850ab83de1e5a8b177871371836f5de41bd622d2",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Execute multiple sql statements or PL sql statements in using n8n-nodes-oracle-database-parameterization module in n8n",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180604",
+    "url": "https://community.n8n.io/t/180604",
+    "collected_at": "2025-09-02T11:10:03.238322+00:00",
+    "score": 1.2e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "13198cac962f59de15d0e72a29d7a1b277c45357",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Can't use values from the branches - using merge",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180602",
+    "url": "https://community.n8n.io/t/180602",
+    "collected_at": "2025-09-02T11:10:03.238322+00:00",
+    "score": 1.2e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "dfd4606702393a5dbadcf097b50301dc9f41f6a8",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Search webhook URL",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 6,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180441",
+    "url": "https://community.n8n.io/t/180441",
+    "collected_at": "2025-09-02T11:10:03.238322+00:00",
+    "score": 7.4e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "9ffb0c0e38769268d5354c0af952c9699f58682f",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Apify Node Returns Nothing",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180589",
+    "url": "https://community.n8n.io/t/180589",
+    "collected_at": "2025-09-02T11:10:03.238322+00:00",
+    "score": 6.2e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "c789be8c0b968acbeddc16d6740723f16a87a252",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Simple workflow but can't get along with WISE at all",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 1,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180596",
+    "url": "https://community.n8n.io/t/180596",
+    "collected_at": "2025-09-02T11:10:03.238322+00:00",
+    "score": 1.2e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "5ee683cdad3f84649004173401399f9f0d58eec6",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Ai Agent Web Crawler that can input, select option, press button etc",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 1841,
+      "likes": 7,
+      "comments": 11,
+      "upvotes": 7,
+      "like_to_view_ratio": 0.0038022813688212928
+    },
+    "country": "unknown",
+    "source_id": "81620",
+    "url": "https://community.n8n.io/t/81620",
+    "collected_at": "2025-09-02T11:10:03.238322+00:00",
+    "score": 0.056448,
+    "schema_version": "3"
+  },
+  {
+    "id": "30b29efd7cb5795073f315509d13269806b39dd9",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "SOS: Workspace offline (503) - 02.09.2025 - \"Currently online Running version n8n@1.109.1\"",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 8,
+      "likes": 3,
+      "comments": 0,
+      "upvotes": 3,
+      "like_to_view_ratio": 0.375
+    },
+    "country": "unknown",
+    "source_id": "180508",
+    "url": "https://community.n8n.io/t/180508",
+    "collected_at": "2025-09-02T11:10:03.238322+00:00",
+    "score": 0.001667,
+    "schema_version": "3"
+  },
+  {
+    "id": "91b73300325f76d801d6fe893cb3b48fc27c333b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Workflows not triggering on schedule",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 10,
+      "likes": 0,
+      "comments": 2,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180526",
+    "url": "https://community.n8n.io/t/180526",
+    "collected_at": "2025-09-02T11:10:03.239325+00:00",
+    "score": 0.005578,
+    "schema_version": "3"
+  },
+  {
+    "id": "083b262dfdb4ce3d4c4c7c3b0a40d0c91f483ef2",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Automation for multiple Application monitoring tools with n8n",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180591",
+    "url": "https://community.n8n.io/t/180591",
+    "collected_at": "2025-09-02T11:10:03.239325+00:00",
+    "score": 3.7e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "9603af8222e9ae51b3988031e257b205272ff153",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Passing env variable to remote Custom MCP server",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 3,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180448",
+    "url": "https://community.n8n.io/t/180448",
+    "collected_at": "2025-09-02T11:10:03.239325+00:00",
+    "score": 3.7e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "b81bd1c2a1b1b69508cfc39c071f2a3d1a7cf2e2",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Completed Level 1—but no badge received",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 2,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180581",
+    "url": "https://community.n8n.io/t/180581",
+    "collected_at": "2025-09-02T11:10:03.239325+00:00",
+    "score": 2.5e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "8163f3866d7f20cafdf55f3fa5c3103c828885de",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Text Course Updates",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 1840,
+      "likes": 49,
+      "comments": 55,
+      "upvotes": 49,
+      "like_to_view_ratio": 0.026630434782608695
+    },
+    "country": "unknown",
+    "source_id": "160448",
+    "url": "https://community.n8n.io/t/160448",
+    "collected_at": "2025-09-02T11:10:03.239325+00:00",
+    "score": 0.198387,
+    "schema_version": "3"
+  },
+  {
+    "id": "f1669a02c670b2d71f5ead7f34957961e5c542bc",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "The \"SUBDOMAIN\" variable is not set",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 4,
+      "likes": 0,
+      "comments": 1,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180515",
+    "url": "https://community.n8n.io/t/180515",
+    "collected_at": "2025-09-02T11:10:03.239325+00:00",
+    "score": 0.002777,
+    "schema_version": "3"
+  },
+  {
+    "id": "3b36ea57ec258ae843f0278b28b21d70ca9647d9",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "[Self-hosted] N8n worker pods keeps crashing with SIGTERM",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 9,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180557",
+    "url": "https://community.n8n.io/t/180557",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.000111,
+    "schema_version": "3"
+  },
+  {
+    "id": "c9024b85dba3f0ac4ffae764f4b2f8167875d151",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Scaling N8N in Enterprise",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 9,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180561",
+    "url": "https://community.n8n.io/t/180561",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.000111,
+    "schema_version": "3"
+  },
+  {
+    "id": "ceef4ff6a82c9d74b1be715acd7ba9888bf14d5b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Extract information from PDF with AI node",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 37,
+      "likes": 5,
+      "comments": 4,
+      "upvotes": 5,
+      "like_to_view_ratio": 0.13513513513513514
+    },
+    "country": "unknown",
+    "source_id": "180137",
+    "url": "https://community.n8n.io/t/180137",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.01398,
+    "schema_version": "3"
+  },
+  {
+    "id": "078cd7b5a8b5afbd046e621b0f000a45e643e319",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Workspace Offline (503) after Update to v1.110.0 – Tried Restarts, Version Switch & Disable Community Nodes",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 6,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180543",
+    "url": "https://community.n8n.io/t/180543",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 7.4e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "59b00310babaafb0add37c99ac8cc34d90405f86",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "N8n Cloud workspace DOWN since Sunday, no fix, no ETA",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 22,
+      "likes": 8,
+      "comments": 5,
+      "upvotes": 8,
+      "like_to_view_ratio": 0.36363636363636365
+    },
+    "country": "unknown",
+    "source_id": "180506",
+    "url": "https://community.n8n.io/t/180506",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.01809,
+    "schema_version": "3"
+  },
+  {
+    "id": "7e77791a63b040fb03956ae7d4ad7f0088ee3bb6",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Building the Ultimate RAG setup with Contextual Summaries, Sparse Vectors and Reranking",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 24061,
+      "likes": 64,
+      "comments": 19,
+      "upvotes": 64,
+      "like_to_view_ratio": 0.00265990607206683
+    },
+    "country": "unknown",
+    "source_id": "54861",
+    "url": "https://community.n8n.io/t/54861",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.383117,
+    "schema_version": "3"
+  },
+  {
+    "id": "504c6429aa5e878c5932b6af0825b3f74dc803ae",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I am studing. Please help me solve the problem",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 7,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180531",
+    "url": "https://community.n8n.io/t/180531",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 8.7e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "7fbef0e1d004e0c9e6e3bb2dbad43410779f2e8b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Error Workspace offline (503)",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 33,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "147041",
+    "url": "https://community.n8n.io/t/147041",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.000409,
+    "schema_version": "3"
+  },
+  {
+    "id": "97e70a9d90568acada9ca0a8afed822632a0a1af",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Update content with joomla",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 23,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "178274",
+    "url": "https://community.n8n.io/t/178274",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.000285,
+    "schema_version": "3"
+  },
+  {
+    "id": "291a03d66fa4e817b05ff945bd56d789837b2e7a",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Lost connection to server when self hosting",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 13,
+      "likes": 1,
+      "comments": 0,
+      "upvotes": 1,
+      "like_to_view_ratio": 0.07692307692307693
+    },
+    "country": "unknown",
+    "source_id": "180461",
+    "url": "https://community.n8n.io/t/180461",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.000684,
+    "schema_version": "3"
+  },
+  {
+    "id": "01533605e0ad8e6025a29523e44aa4dabcf72675",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "No puedo Acceder a mi Cuenta",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180516",
+    "url": "https://community.n8n.io/t/180516",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 6.2e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "726d482daa25a7814f85a1513808f785a523cc16",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "A Look Back at Our First n8n Starter Session in Amsterdam",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 54,
+      "likes": 4,
+      "comments": 1,
+      "upvotes": 4,
+      "like_to_view_ratio": 0.07407407407407407
+    },
+    "country": "unknown",
+    "source_id": "179882",
+    "url": "https://community.n8n.io/t/179882",
+    "collected_at": "2025-09-02T11:10:03.240323+00:00",
+    "score": 0.005486,
+    "schema_version": "3"
+  },
+  {
+    "id": "9779db151288af7f3ccea607657c61e919f8fbca",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Google Service Account Usage in N8N",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 25,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180221",
+    "url": "https://community.n8n.io/t/180221",
+    "collected_at": "2025-09-02T11:10:03.241321+00:00",
+    "score": 0.000309,
+    "schema_version": "3"
+  },
+  {
+    "id": "4067f4d14d1e47438b542db3f7a553cd3728c920",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "N8n 1.109.0 error message",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 23,
+      "likes": 1,
+      "comments": 5,
+      "upvotes": 1,
+      "like_to_view_ratio": 0.043478260869565216
+    },
+    "country": "unknown",
+    "source_id": "180373",
+    "url": "https://community.n8n.io/t/180373",
+    "collected_at": "2025-09-02T11:10:03.241321+00:00",
+    "score": 0.014444,
+    "schema_version": "3"
+  },
+  {
+    "id": "fa707de94262d9d51bf8a3733d85014465b46e83",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "WhatsApp Error",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 31,
+      "likes": 0,
+      "comments": 1,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180171",
+    "url": "https://community.n8n.io/t/180171",
+    "collected_at": "2025-09-02T11:10:03.241321+00:00",
+    "score": 0.003111,
+    "schema_version": "3"
+  },
+  {
+    "id": "3fd0485eca237d855f3ec3a82aa2c58d53943781",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Workspace refuse to start",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 28,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "179997",
+    "url": "https://community.n8n.io/t/179997",
+    "collected_at": "2025-09-02T11:10:03.645947+00:00",
+    "score": 0.000347,
+    "schema_version": "3"
+  },
+  {
+    "id": "f804e61139dd77d38d6c6e123bca0c8b2bdd8ec2",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Google Calendar node fails with Luxon-formatted date from Google Sheets (works with hardcoded string)",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 66,
+      "likes": 2,
+      "comments": 5,
+      "upvotes": 2,
+      "like_to_view_ratio": 0.030303030303030304
+    },
+    "country": "unknown",
+    "source_id": "177385",
+    "url": "https://community.n8n.io/t/177385",
+    "collected_at": "2025-09-02T11:10:03.645947+00:00",
+    "score": 0.015499,
+    "schema_version": "3"
+  },
+  {
+    "id": "c8340bae63f30cdca4bee7c2edc9e96e8dd1a905",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Unable to pull event from zendesk is community version",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180490",
+    "url": "https://community.n8n.io/t/180490",
+    "collected_at": "2025-09-02T11:10:03.645947+00:00",
+    "score": 5e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "3b0324e5f56f8f599cfdd280014db8477494e450",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Fetch client Ip address in webhook node",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 4,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180487",
+    "url": "https://community.n8n.io/t/180487",
+    "collected_at": "2025-09-02T11:10:03.645947+00:00",
+    "score": 5e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "8fa212e6563dec53a74105d9dbfeac4bd81ca051",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Time Trigger Workflow Not Consistently Activating in n8n",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 19,
+      "likes": 1,
+      "comments": 7,
+      "upvotes": 1,
+      "like_to_view_ratio": 0.05263157894736842
+    },
+    "country": "unknown",
+    "source_id": "180306",
+    "url": "https://community.n8n.io/t/180306",
+    "collected_at": "2025-09-02T11:10:03.645947+00:00",
+    "score": 0.019849,
+    "schema_version": "3"
+  },
+  {
+    "id": "f091eefa827e9742de398cd639d0d3c25d7230f5",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Are there any newbies who would like to join a collaborative learning group?",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180479",
+    "url": "https://community.n8n.io/t/180479",
+    "collected_at": "2025-09-02T11:10:03.645947+00:00",
+    "score": 6.2e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "89191545bb1eca9127f4957349c7df83c5f18c40",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Jobs / Hiring",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 73,
+      "likes": 2,
+      "comments": 1,
+      "upvotes": 2,
+      "like_to_view_ratio": 0.0273972602739726
+    },
+    "country": "unknown",
+    "source_id": "180170",
+    "url": "https://community.n8n.io/t/180170",
+    "collected_at": "2025-09-02T11:10:03.645947+00:00",
+    "score": 0.004676,
+    "schema_version": "3"
+  },
+  {
+    "id": "dd53f139a8bd03586df9b3194a1e24a8d9583301",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Openrouter Model Provider Selection e.g. Cerebras",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 5,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180471",
+    "url": "https://community.n8n.io/t/180471",
+    "collected_at": "2025-09-02T11:10:03.645947+00:00",
+    "score": 6.2e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "f10c1d73bee57a4c7083b116e0c672b386289ee5",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How to handle duplicates in Google sheet?",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 7,
+      "likes": 0,
+      "comments": 1,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180452",
+    "url": "https://community.n8n.io/t/180452",
+    "collected_at": "2025-09-02T11:10:03.646950+00:00",
+    "score": 0.002814,
+    "schema_version": "3"
+  },
+  {
+    "id": "8eec6e5c1d2a82cae9d5a4d140be7cc2a99358f7",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "In chat trigger - response mode has 2 option",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 21,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "178025",
+    "url": "https://community.n8n.io/t/178025",
+    "collected_at": "2025-09-02T11:10:03.646950+00:00",
+    "score": 0.00026,
+    "schema_version": "3"
+  },
+  {
+    "id": "f151cc153c7fe08890462813143f3bd28aad9d50",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Error 404 when using n8n node: Get Many",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 18,
+      "likes": 2,
+      "comments": 1,
+      "upvotes": 2,
+      "like_to_view_ratio": 0.1111111111111111
+    },
+    "country": "unknown",
+    "source_id": "179929",
+    "url": "https://community.n8n.io/t/179929",
+    "collected_at": "2025-09-02T11:10:03.646950+00:00",
+    "score": 0.003995,
+    "schema_version": "3"
+  },
+  {
+    "id": "3e9b89e9124273de04dde1389758e73ea0dbbc5a",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "UpWork OAuth2 doesn't refresh tokens",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 6,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180462",
+    "url": "https://community.n8n.io/t/180462",
+    "collected_at": "2025-09-02T11:10:03.646950+00:00",
+    "score": 7.4e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "3d08dfd0a87e8bda73162488202956043e2c730d",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "HTTP problem",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 14,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180256",
+    "url": "https://community.n8n.io/t/180256",
+    "collected_at": "2025-09-02T11:10:03.646950+00:00",
+    "score": 0.000173,
+    "schema_version": "3"
+  },
+  {
+    "id": "c154c2c4f1503b0338451419375953eb9228daa4",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "🚀 New Community Node: Markdown to Google Docs - Advanced Document Automation",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 545,
+      "likes": 23,
+      "comments": 21,
+      "upvotes": 23,
+      "like_to_view_ratio": 0.04220183486238532
+    },
+    "country": "unknown",
+    "source_id": "153204",
+    "url": "https://community.n8n.io/t/153204",
+    "collected_at": "2025-09-02T11:10:03.646950+00:00",
+    "score": 0.07604,
+    "schema_version": "3"
+  },
+  {
+    "id": "a1b1f0cb05705ed610aa3dc135246472879689a4",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "AI Agent does not work after connecting the postgres chat memory node",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 15,
+      "likes": 1,
+      "comments": 1,
+      "upvotes": 1,
+      "like_to_view_ratio": 0.06666666666666667
+    },
+    "country": "unknown",
+    "source_id": "177343",
+    "url": "https://community.n8n.io/t/177343",
+    "collected_at": "2025-09-02T11:10:03.646950+00:00",
+    "score": 0.003436,
+    "schema_version": "3"
+  },
+  {
+    "id": "6a4e71f45953237db824b040f0016b32cf1cead2",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Retrieve Vector ID After Document Upsert in Pinecone Integration",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 615,
+      "likes": 11,
+      "comments": 1,
+      "upvotes": 11,
+      "like_to_view_ratio": 0.01788617886178862
+    },
+    "country": "unknown",
+    "source_id": "53865",
+    "url": "https://community.n8n.io/t/53865",
+    "collected_at": "2025-09-02T11:10:03.646950+00:00",
+    "score": 0.016089,
+    "schema_version": "3"
+  },
+  {
+    "id": "b53112236294f483fab6092a43b72c6d02770b07",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Cannot log on to my n8n cloud. Can anyone please help?",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 30,
+      "likes": 3,
+      "comments": 2,
+      "upvotes": 3,
+      "like_to_view_ratio": 0.1
+    },
+    "country": "unknown",
+    "source_id": "180217",
+    "url": "https://community.n8n.io/t/180217",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.007394,
+    "schema_version": "3"
+  },
+  {
+    "id": "70202527722c0def43697a1a72149aa613979e0d",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "[Community Node] OpenAI + Langfuse integration for observability & agent tracing",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 9,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180344",
+    "url": "https://community.n8n.io/t/180344",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.000111,
+    "schema_version": "3"
+  },
+  {
+    "id": "5df5c6344734a190da48b72933cf2805eada492e",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Do Service Accounts work when creating spreadsheets?",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 18,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "180196",
+    "url": "https://community.n8n.io/t/180196",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.000223,
+    "schema_version": "3"
+  },
+  {
+    "id": "397cd7909d1b03ae2a30395594584ee8c3cec8f6",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Some default nodes does not provide connecting points",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 24,
+      "likes": 0,
+      "comments": 3,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "179575",
+    "url": "https://community.n8n.io/t/179575",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.008479,
+    "schema_version": "3"
+  },
+  {
+    "id": "d9bb17f5c88bf6d336e019afe9bbc6e392d83099",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How to handle large input data for AI agent?",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 35,
+      "likes": 0,
+      "comments": 1,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "178147",
+    "url": "https://community.n8n.io/t/178147",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.003161,
+    "schema_version": "3"
+  },
+  {
+    "id": "ba0694db8e17bc0db79d6dc19c3a023f51841348",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Help: New n8n Docker install can't receive webhooks via IP address (404 error)",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 8,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "179762",
+    "url": "https://community.n8n.io/t/179762",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 9.9e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "ea284f7970e5703c1b4d4d68399b65128f54e5a7",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Adding python module",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 0,
+      "comments": 0,
+      "upvotes": 0,
+      "like_to_view_ratio": 0.0
+    },
+    "country": "unknown",
+    "source_id": "179773",
+    "url": "https://community.n8n.io/t/179773",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.000149,
+    "schema_version": "3"
+  },
+  {
+    "id": "7fb9be2f95debbe41a089e776a24566d813050c1",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Oracle Database node",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 9249,
+      "likes": 14,
+      "comments": 24,
+      "upvotes": 14,
+      "like_to_view_ratio": 0.00151367715428695
+    },
+    "country": "unknown",
+    "source_id": "2481",
+    "url": "https://community.n8n.io/t/2481",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.187264,
+    "schema_version": "3"
+  },
+  {
+    "id": "936b0cbf2f369fd0cca5f963731b5bc4a8bda706",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Is it possible to mock AI Agent tool",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 47,
+      "likes": 3,
+      "comments": 3,
+      "upvotes": 3,
+      "like_to_view_ratio": 0.06382978723404255
+    },
+    "country": "unknown",
+    "source_id": "177699",
+    "url": "https://community.n8n.io/t/177699",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.010332,
+    "schema_version": "3"
+  },
+  {
+    "id": "cd8feb073ce38b2ea9ce96ffa74d90fc130c143a",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "N8n-nodes-playwright-scripts node output : No fields - item(s) exist, but they're empty",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 70,
+      "likes": 1,
+      "comments": 4,
+      "upvotes": 1,
+      "like_to_view_ratio": 0.014285714285714285
+    },
+    "country": "unknown",
+    "source_id": "177527",
+    "url": "https://community.n8n.io/t/177527",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.012298,
+    "schema_version": "3"
+  },
+  {
+    "id": "862227f423eac90648d014289b4d70f840fcde81",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Workflow deactivate itself",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 48,
+      "likes": 1,
+      "comments": 0,
+      "upvotes": 1,
+      "like_to_view_ratio": 0.020833333333333332
+    },
+    "country": "unknown",
+    "source_id": "163334",
+    "url": "https://community.n8n.io/t/163334",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.001117,
+    "schema_version": "3"
+  },
+  {
+    "id": "0f2c6039ec176c9f2df00cf853938ab86bc6a4f0",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "[Community Node] OpenAI + Langfuse integration for better observability & agent tracing",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 6,
+      "likes": 1,
+      "comments": 0,
+      "upvotes": 1,
+      "like_to_view_ratio": 0.16666666666666666
+    },
+    "country": "unknown",
+    "source_id": "180337",
+    "url": "https://community.n8n.io/t/180337",
+    "collected_at": "2025-09-02T11:10:03.647949+00:00",
+    "score": 0.000597,
+    "schema_version": "3"
+  },
+  {
+    "id": "866383b1ec0c5e6f8a251b034488095065c31922",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I'm having trouble making my workflow execute what i want",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 9,
+      "likes": 3,
+      "comments": 4,
+      "upvotes": 3,
+      "like_to_view_ratio": 0.3333333333333333
+    },
+    "country": "unknown",
+    "source_id": "180331",
+    "url": "https://community.n8n.io/t/180331",
+    "collected_at": "2025-09-02T11:10:03.648952+00:00",
+    "score": 0.012588,
+    "schema_version": "3"
+  },
+  {
+    "id": "9cc7d3830487e519d4df1f62ea43548c169c510e",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Help Needed: Unsolvable Google Chat File Upload - attachments:upload Fails with 400/404",
+    "platform": "n8n Forum",
+    "popularity_metrics": {
+      "views": 83,
+      "likes": 1,
+      "comments": 2,
+      "upvotes": 1,
+      "like_to_view_ratio": 0.012048192771084338
+    },
+    "country": "unknown",
+    "source_id": "132858",
+    "url": "https://community.n8n.io/t/132858",
+    "collected_at": "2025-09-02T11:10:03.648952+00:00",
+    "score": 0.007005,
+    "schema_version": "3"
+  }
+]

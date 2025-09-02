@@ -1,0 +1,2358 @@
+[
+  {
+    "id": "ac6b9e21cbb5b1b942ca49260f695a895e81b786",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Just closed a $35,000 deal with a law firm",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 719,
+      "upvotes": 3064,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kt8ag5",
+    "url": "https://reddit.com/r/n8n/comments/1kt8ag5/just_closed_a_35000_deal_with_a_law_firm/",
+    "collected_at": "2025-09-02T11:10:03.669951+00:00",
+    "score": 1.0,
+    "schema_version": "3"
+  },
+  {
+    "id": "37962e9f4960ab908bfc35e831b7b9442cb9f4ec",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I just hit $25,000/MRR in 4 months with n8n",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 695,
+      "upvotes": 2079,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kki6u5",
+    "url": "https://reddit.com/r/n8n/comments/1kki6u5/i_just_hit_25000mrr_in_4_months_with_n8n/",
+    "collected_at": "2025-09-02T11:10:03.669951+00:00",
+    "score": 0.843151,
+    "schema_version": "3"
+  },
+  {
+    "id": "4a4239567c0a4307733310cd0fe1196d41c039bd",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I Built an AI Agent Army in n8n That Completely Replaced My Personal Assistant",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 218,
+      "upvotes": 1760,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mugdof",
+    "url": "https://reddit.com/r/n8n/comments/1mugdof/i_built_an_ai_agent_army_in_n8n_that_completely/",
+    "collected_at": "2025-09-02T11:10:03.669951+00:00",
+    "score": 0.419433,
+    "schema_version": "3"
+  },
+  {
+    "id": "a03e644516c57bbdd46a79543a2e994d2ab80b23",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built an AI system that scrapes stories off the internet and generates a daily newsletter (now at 10,000 subscribers)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 169,
+      "upvotes": 1449,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l9pff8",
+    "url": "https://reddit.com/r/n8n/comments/1l9pff8/i_built_an_ai_system_that_scrapes_stories_off_the/",
+    "collected_at": "2025-09-02T11:10:03.669951+00:00",
+    "score": 0.33699,
+    "schema_version": "3"
+  },
+  {
+    "id": "1d0be591b7653591babb85dea2f4450211d13263",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "You can safely discard your 159 node n8n automation that created 500 AI shorts in 5 seconds",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 146,
+      "upvotes": 1166,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lvfz70",
+    "url": "https://reddit.com/r/n8n/comments/1lvfz70/you_can_safely_discard_your_159_node_n8n/",
+    "collected_at": "2025-09-02T11:10:03.669951+00:00",
+    "score": 0.279126,
+    "schema_version": "3"
+  },
+  {
+    "id": "03ec6354813b965fc732abdfb489ae49ffee3aed",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I think that everyone is being lied to about AI agents",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 212,
+      "upvotes": 1062,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ka1l3l",
+    "url": "https://reddit.com/r/n8n/comments/1ka1l3l/i_think_that_everyone_is_being_lied_to_about_ai/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.317033,
+    "schema_version": "3"
+  },
+  {
+    "id": "504d1e87358e8dce1e546e3bcca9df5f8478bbb3",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "i automated the entire cold outreach process in n8n (sorry to whoever's job i just replaced)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 373,
+      "upvotes": 976,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jgl5ek",
+    "url": "https://reddit.com/r/n8n/comments/1jgl5ek/i_automated_the_entire_cold_outreach_process_in/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.43296,
+    "schema_version": "3"
+  },
+  {
+    "id": "4491209dba6289642658caae611469c6ea7f2d7e",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Your slop won’t sell",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 193,
+      "upvotes": 976,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lk9jvx",
+    "url": "https://reddit.com/r/n8n/comments/1lk9jvx/your_slop_wont_sell/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.289904,
+    "schema_version": "3"
+  },
+  {
+    "id": "a345f2992bc3f772d1c294b63e3eae5381a67a4c",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I recreated a dentist voice agent making $24K/yr using ElevenLabs. Handles after-hours appointment booking",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 145,
+      "upvotes": 961,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m37l5z",
+    "url": "https://reddit.com/r/n8n/comments/1m37l5z/i_recreated_a_dentist_voice_agent_making_24kyr/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.249658,
+    "schema_version": "3"
+  },
+  {
+    "id": "28b2e8f80b5f354d3468051c7ed8cceac4181a60",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "An Open Letter to All n8n Enthusiasts. Please read!",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 101,
+      "upvotes": 878,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lmkol3",
+    "url": "https://reddit.com/r/n8n/comments/1lmkol3/an_open_letter_to_all_n8n_enthusiasts_please_read/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.203079,
+    "schema_version": "3"
+  },
+  {
+    "id": "19153baf7b360da3e1472834ec3a22afc72af1c6",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I Built an AI That Predicts Gold Market Trends with 90%+ Accuracy Using n8n, Gemini, and Real-Time Data",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 172,
+      "upvotes": 808,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kkyco0",
+    "url": "https://reddit.com/r/n8n/comments/1kkyco0/i_built_an_ai_that_predicts_gold_market_trends/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.249715,
+    "schema_version": "3"
+  },
+  {
+    "id": "f07ec5a7ad0e8ba4c962994b576ff0b505ef1429",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built this AI Automation to write viral TikTok/IG video scripts (got over 1.8 million views on Instagram)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 120,
+      "upvotes": 789,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1loafvx",
+    "url": "https://reddit.com/r/n8n/comments/1loafvx/i_built_this_ai_automation_to_write_viral/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.205731,
+    "schema_version": "3"
+  },
+  {
+    "id": "f6425daeb1bb8de430624048cbed37f43efd100b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "N8N the best tool for small business",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 68,
+      "upvotes": 780,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jwspka",
+    "url": "https://reddit.com/r/n8n/comments/1jwspka/n8n_the_best_tool_for_small_business/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.163144,
+    "schema_version": "3"
+  },
+  {
+    "id": "5f2c8aaafd24dacc3009ad766cb52512840e0962",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "10 things I wish I knew before diving into AI automation (after building 100+ workflows)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 130,
+      "upvotes": 770,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ldvy4n",
+    "url": "https://reddit.com/r/n8n/comments/1ldvy4n/10_things_i_wish_i_knew_before_diving_into_ai/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.21102,
+    "schema_version": "3"
+  },
+  {
+    "id": "b151b4d8d4caed4bb5a5b6932db8281d5de7efae",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "All of N8N workflows I could find (1000+) 😋 enjoy !",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 91,
+      "upvotes": 668,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kx9u01",
+    "url": "https://reddit.com/r/n8n/comments/1kx9u01/all_of_n8n_workflows_i_could_find_1000_enjoy/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.165758,
+    "schema_version": "3"
+  },
+  {
+    "id": "18b1a71a60b3d80cbe87f1e224a14c6f093fb1de",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Why I Left n8n for Python (And Why It Was the Best Decision for My Projects)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 183,
+      "upvotes": 665,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mcm9d2",
+    "url": "https://reddit.com/r/n8n/comments/1mcm9d2/why_i_left_n8n_for_python_and_why_it_was_the_best/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.238456,
+    "schema_version": "3"
+  },
+  {
+    "id": "45dad1585476faa8924b895f404fc3cf26264bea",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built a free browser extension that builds your n8n workflows for you, and it’s out now! (Chrome and Firefox)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 130,
+      "upvotes": 625,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jzpj2u",
+    "url": "https://reddit.com/r/n8n/comments/1jzpj2u/i_built_a_free_browser_extension_that_builds_your/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.190739,
+    "schema_version": "3"
+  },
+  {
+    "id": "1bd1bb80caf0444cb9e7780124b3cc18871de396",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Built my first automation last night",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 59,
+      "upvotes": 564,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mpydhr",
+    "url": "https://reddit.com/r/n8n/comments/1mpydhr/built_my_first_automation_last_night/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.125779,
+    "schema_version": "3"
+  },
+  {
+    "id": "ba0cbeb1c32b465fdc1082dd3438416394bf3d83",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built an AI automation that writes SEO-optimized articles using Deep Research reports (and grew my website to 200k sessions this past year)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 74,
+      "upvotes": 565,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l81jzd",
+    "url": "https://reddit.com/r/n8n/comments/1l81jzd/i_built_an_ai_automation_that_writes_seooptimized/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.13784,
+    "schema_version": "3"
+  },
+  {
+    "id": "a5ade13945620e8dde2e330644976d5d67548ddd",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built a free browser extension that creates your n8n workflows for you! It's almost ready",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 123,
+      "upvotes": 565,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jbvt0a",
+    "url": "https://reddit.com/r/n8n/comments/1jbvt0a/i_built_a_free_browser_extension_that_creates/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.176783,
+    "schema_version": "3"
+  },
+  {
+    "id": "3920638e572c09a731d46c15ebd55415d19c05fc",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I Built a Personal AI Assistant That Runs My Life Through WhatsApp, Powered by n8n and a Self-Hosted LLM",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 103,
+      "upvotes": 565,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mtv9re",
+    "url": "https://reddit.com/r/n8n/comments/1mtv9re/i_built_a_personal_ai_assistant_that_runs_my_life/",
+    "collected_at": "2025-09-02T11:10:03.670952+00:00",
+    "score": 0.160888,
+    "schema_version": "3"
+  },
+  {
+    "id": "666a60b3b8151b99c19d99eb011867b3b0da5dee",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I made a free MCP server to create short videos locally with n8n - 100% free, open source (github, npm, docker)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 54,
+      "upvotes": 561,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1k575uq",
+    "url": "https://reddit.com/r/n8n/comments/1k575uq/i_made_a_free_mcp_server_to_create_short_videos/",
+    "collected_at": "2025-09-02T11:10:03.671948+00:00",
+    "score": 0.121386,
+    "schema_version": "3"
+  },
+  {
+    "id": "a5ac381377cc2a5b45261ef4d92221a5610f1d67",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Your n8n Learning Journey Just Got Easier - I Built a Complete YouTube Video Directory by Topic &amp; Difficulty",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 69,
+      "upvotes": 521,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jm0vfb",
+    "url": "https://reddit.com/r/n8n/comments/1jm0vfb/your_n8n_learning_journey_just_got_easier_i_built/",
+    "collected_at": "2025-09-02T11:10:03.671948+00:00",
+    "score": 0.127712,
+    "schema_version": "3"
+  },
+  {
+    "id": "da842a3db83b16da72ebc9c0d4feba101233816f",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "[SUCCESS] Made $250k with n8n in 3 minutes while pissing myself laughing at you broke devs – AMA",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 148,
+      "upvotes": 505,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m5a6ux",
+    "url": "https://reddit.com/r/n8n/comments/1m5a6ux/success_made_250k_with_n8n_in_3_minutes_while/",
+    "collected_at": "2025-09-02T11:10:03.671948+00:00",
+    "score": 0.18826,
+    "schema_version": "3"
+  },
+  {
+    "id": "449dca6142581283af7ed121b692535c9435408f",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "n8n's new self-hosted pricing is live... and it’s not what I hoped for.",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 218,
+      "upvotes": 486,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mk07pf",
+    "url": "https://reddit.com/r/n8n/comments/1mk07pf/n8ns_new_selfhosted_pricing_is_live_and_its_not/",
+    "collected_at": "2025-09-02T11:10:03.671948+00:00",
+    "score": 0.241235,
+    "schema_version": "3"
+  },
+  {
+    "id": "c38e92ad0c106075c4d5b022789dcbe438586d86",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I made an n8n Cheat Sheet!",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 81,
+      "upvotes": 1949,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jy1wdc",
+    "url": "https://reddit.com/r/n8n/comments/1jy1wdc/i_made_an_n8n_cheat_sheet/",
+    "collected_at": "2025-09-02T11:10:04.990928+00:00",
+    "score": 0.336988,
+    "schema_version": "3"
+  },
+  {
+    "id": "586589f20fd047e8af1e18af60d05bfe59002071",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I made my 1st working workflow and I never been so proud",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 62,
+      "upvotes": 472,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lsoams",
+    "url": "https://reddit.com/r/n8n/comments/1lsoams/i_made_my_1st_working_workflow_and_i_never_been/",
+    "collected_at": "2025-09-02T11:10:04.990928+00:00",
+    "score": 0.115295,
+    "schema_version": "3"
+  },
+  {
+    "id": "702fac0b891a46d2fc764731b9866d9c25f6a8f2",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built an AI voice agent that replaced my entire marketing team (creates newsletter w/ 10k subs, repurposes content, generates short form videos)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 75,
+      "upvotes": 465,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mch7p6",
+    "url": "https://reddit.com/r/n8n/comments/1mch7p6/i_built_an_ai_voice_agent_that_replaced_my_entire/",
+    "collected_at": "2025-09-02T11:10:04.990928+00:00",
+    "score": 0.124648,
+    "schema_version": "3"
+  },
+  {
+    "id": "4d21756218fa74c0b84827abcb6f67075c93acab",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I have reviewed over 1000+ n8n Templates &amp; Here's how to Spot a Gold Mine.",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 134,
+      "upvotes": 457,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ltsocy",
+    "url": "https://reddit.com/r/n8n/comments/1ltsocy/i_have_reviewed_over_1000_n8n_templates_heres_how/",
+    "collected_at": "2025-09-02T11:10:04.990928+00:00",
+    "score": 0.170419,
+    "schema_version": "3"
+  },
+  {
+    "id": "b9ec08b4cbfcd7d32ef8a5d4583931bb58baf5ca",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "The Best 2025 Ultimate !!Collaborative!! API List for n8n",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 53,
+      "upvotes": 439,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l3fcpm",
+    "url": "https://reddit.com/r/n8n/comments/1l3fcpm/the_best_2025_ultimate_collaborative_api_list_for/",
+    "collected_at": "2025-09-02T11:10:04.990928+00:00",
+    "score": 0.103526,
+    "schema_version": "3"
+  },
+  {
+    "id": "43fb3b2d88795db1b63f4c76649d8ce1201083c8",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "20+ Useful, Focused Tools That Work Seamlessly with n8n",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 46,
+      "upvotes": 428,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kp05jl",
+    "url": "https://reddit.com/r/n8n/comments/1kp05jl/20_useful_focused_tools_that_work_seamlessly_with/",
+    "collected_at": "2025-09-02T11:10:04.990928+00:00",
+    "score": 0.096424,
+    "schema_version": "3"
+  },
+  {
+    "id": "712707aa04f72e300c1c7f0813f8267a4f672536",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I created a complete production-ready guide for self-hosting n8n on Google Cloud's free tier - zero monthly costs and enterprise-grade security",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 55,
+      "upvotes": 420,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lgqmf5",
+    "url": "https://reddit.com/r/n8n/comments/1lgqmf5/i_created_a_complete_productionready_guide_for/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.102458,
+    "schema_version": "3"
+  },
+  {
+    "id": "a23ca6ac88595fcdeb8b687be3ca3048063c7896",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How much is my workflow worth?",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 173,
+      "upvotes": 413,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lzz02o",
+    "url": "https://reddit.com/r/n8n/comments/1lzz02o/how_much_is_my_workflow_worth/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.19526,
+    "schema_version": "3"
+  },
+  {
+    "id": "310c8c7bd0761e6a65502eb7b29ad85176873093",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I THINK I JUST CRACKED IT!! An n8n Workflow generator!",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 83,
+      "upvotes": 408,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kthlcf",
+    "url": "https://reddit.com/r/n8n/comments/1kthlcf/i_think_i_just_cracked_it_an_n8n_workflow/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.123033,
+    "schema_version": "3"
+  },
+  {
+    "id": "d6563bae6c1976c9b7efa2a2e59f1a200c960176",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Share your workflow ! Find your next workflow ! Don't buy it !",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 44,
+      "upvotes": 386,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kuspxb",
+    "url": "https://reddit.com/r/n8n/comments/1kuspxb/share_your_workflow_find_your_next_workflow_dont/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.08896,
+    "schema_version": "3"
+  },
+  {
+    "id": "a33437f4d04a482e58ec9d0bd1d44986fd0e2be7",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built a comprehensive Instagram + Messenger chatbot with n8n (with ZERO coding experience) - and I have NOTHING to sell!",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 122,
+      "upvotes": 386,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1k4u0c4",
+    "url": "https://reddit.com/r/n8n/comments/1k4u0c4/i_built_a_comprehensive_instagram_messenger/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.150951,
+    "schema_version": "3"
+  },
+  {
+    "id": "933ef827c61375e1022fcb555c074ef47ffe9016",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I analysed 2,000+ n8n workflows and this is what I learned",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 64,
+      "upvotes": 383,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l1f6n8",
+    "url": "https://reddit.com/r/n8n/comments/1l1f6n8/i_analysed_2000_n8n_workflows_and_this_is_what_i/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.104436,
+    "schema_version": "3"
+  },
+  {
+    "id": "9655c2a8e66a776c539cf65c9ad34fa67a74ca5f",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Major n8n 1.103.2 Update — Detailed Breakdown for Self-hosted Users &amp; Automation Builders",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 42,
+      "upvotes": 367,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m9nw8f",
+    "url": "https://reddit.com/r/n8n/comments/1m9nw8f/major_n8n_11032_update_detailed_breakdown_for/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.084713,
+    "schema_version": "3"
+  },
+  {
+    "id": "8f0f0960b4a6584ae07b88707900a96666acacda",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Free workflow lets you automate video generation for TikTok, Reels, Shorts etc",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 71,
+      "upvotes": 353,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1j91dkn",
+    "url": "https://reddit.com/r/n8n/comments/1j91dkn/free_workflow_lets_you_automate_video_generation/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.105803,
+    "schema_version": "3"
+  },
+  {
+    "id": "0fa22934b5e3f6d1feae180766b3d27cb59d7b15",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "My n8n Workflows Site ( update )- Find Quality Automations Easily!",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 33,
+      "upvotes": 339,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lszo8j",
+    "url": "https://reddit.com/r/n8n/comments/1lszo8j/my_n8n_workflows_site_update_find_quality/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.073644,
+    "schema_version": "3"
+  },
+  {
+    "id": "b59f251dd355e9f9e805c686ad37475eca64db14",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "🔥 250+ Free n8n Automation Templates – The Ultimate Collection for AI, Productivity, and Integrations! 🚀",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 33,
+      "upvotes": 331,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1khyn91",
+    "url": "https://reddit.com/r/n8n/comments/1khyn91/250_free_n8n_automation_templates_the_ultimate/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.072525,
+    "schema_version": "3"
+  },
+  {
+    "id": "f0c5730438bcc62c475379356409ddb5fd9dfc4f",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "End-to-end Lead Generation system with email personalization and LinkedIn (free template)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 44,
+      "upvotes": 319,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m5icja",
+    "url": "https://reddit.com/r/n8n/comments/1m5icja/endtoend_lead_generation_system_with_email/",
+    "collected_at": "2025-09-02T11:10:04.991931+00:00",
+    "score": 0.079589,
+    "schema_version": "3"
+  },
+  {
+    "id": "01ce6d93d0b2c0dbb4c4ee040cdc59d245e80be8",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I nearly burned out building this! But it is probably what I'm the most proud of...",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 168,
+      "upvotes": 473,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mduue9",
+    "url": "https://reddit.com/r/n8n/comments/1mduue9/i_nearly_burned_out_building_this_but_it_is/",
+    "collected_at": "2025-09-02T11:10:05.848749+00:00",
+    "score": 0.199679,
+    "schema_version": "3"
+  },
+  {
+    "id": "cc6e2167efb2aa3fddf93ea7b318131b1b9ac7ae",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "NEW RULE: No more posts about starting an Agency or Finding Clients",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 62,
+      "upvotes": 462,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m6ivfk",
+    "url": "https://reddit.com/r/n8n/comments/1m6ivfk/new_rule_no_more_posts_about_starting_an_agency/",
+    "collected_at": "2025-09-02T11:10:05.848749+00:00",
+    "score": 0.113896,
+    "schema_version": "3"
+  },
+  {
+    "id": "4361b1385f62f08ec7ea4ab6e9f0f7ce0dc280e5",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built a WhatsApp chatbot and AI Agent for hotels and the hospitality industry",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 40,
+      "upvotes": 357,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mr2vyq",
+    "url": "https://reddit.com/r/n8n/comments/1mr2vyq/i_built_a_whatsapp_chatbot_and_ai_agent_for/",
+    "collected_at": "2025-09-02T11:10:06.756572+00:00",
+    "score": 0.081725,
+    "schema_version": "3"
+  },
+  {
+    "id": "e0d6baccaca07cc5b110d353ad8660f846750f78",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "This n8n workflow made me close Multiple Clients at Once",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 51,
+      "upvotes": 312,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1myo42e",
+    "url": "https://reddit.com/r/n8n/comments/1myo42e/this_n8n_workflow_made_me_close_multiple_clients/",
+    "collected_at": "2025-09-02T11:10:06.756572+00:00",
+    "score": 0.084173,
+    "schema_version": "3"
+  },
+  {
+    "id": "c4435eec9c853c23eefffbaf9b7b6eee9116c177",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Turn Your n8n Workflows Into Monetizable SaaS Apps (Here’s How)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 63,
+      "upvotes": 308,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ln7b8q",
+    "url": "https://reddit.com/r/n8n/comments/1ln7b8q/turn_your_n8n_workflows_into_monetizable_saas/",
+    "collected_at": "2025-09-02T11:10:06.756572+00:00",
+    "score": 0.09315,
+    "schema_version": "3"
+  },
+  {
+    "id": "3407ab699a039e06e85b6ec549d50d30a6688084",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "After 2 years of n8n automation, here's what I wish I knew from day one (and why I'm not switching to Python)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 73,
+      "upvotes": 296,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mepe48",
+    "url": "https://reddit.com/r/n8n/comments/1mepe48/after_2_years_of_n8n_automation_heres_what_i_wish/",
+    "collected_at": "2025-09-02T11:10:06.756572+00:00",
+    "score": 0.09942,
+    "schema_version": "3"
+  },
+  {
+    "id": "42cd2106e6f94d9a21eac400c39fa0e7896cb056",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I’m already using n8n to replace several tools in my business - here’s a real-world use case.",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 31,
+      "upvotes": 270,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l6c79a",
+    "url": "https://reddit.com/r/n8n/comments/1l6c79a/im_already_using_n8n_to_replace_several_tools_in/",
+    "collected_at": "2025-09-02T11:10:06.756572+00:00",
+    "score": 0.062403,
+    "schema_version": "3"
+  },
+  {
+    "id": "ab1d66b1834d982d1af690f896bda8b680474cfc",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Everything YouTube Gurus Didn’t Tell You About Automation – Part 2 (and it’s worse than you thought)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 37,
+      "upvotes": 241,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mf7djk",
+    "url": "https://reddit.com/r/n8n/comments/1mf7djk/everything_youtube_gurus_didnt_tell_you_about/",
+    "collected_at": "2025-09-02T11:10:06.757571+00:00",
+    "score": 0.063115,
+    "schema_version": "3"
+  },
+  {
+    "id": "b3904454349fee59d3d09db0638caac3f36bb048",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "What You’re Selling is Illegal: n8n License Differences with Examples",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 78,
+      "upvotes": 241,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mo4a5h",
+    "url": "https://reddit.com/r/n8n/comments/1mo4a5h/what_youre_selling_is_illegal_n8n_license/",
+    "collected_at": "2025-09-02T11:10:06.757571+00:00",
+    "score": 0.0957,
+    "schema_version": "3"
+  },
+  {
+    "id": "7f837953525e95e48658efe2d522a4b287517585",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How to Make Money with Automation and n8n: The Path of the Master and the Strategist",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 77,
+      "upvotes": 240,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1klpkxz",
+    "url": "https://reddit.com/r/n8n/comments/1klpkxz/how_to_make_money_with_automation_and_n8n_the/",
+    "collected_at": "2025-09-02T11:10:06.757571+00:00",
+    "score": 0.094766,
+    "schema_version": "3"
+  },
+  {
+    "id": "1f99b4fbf85e0d9308700c8c8e7251d3a14c573a",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Alright n8n “pros” and noobs, let’s talk about something",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 108,
+      "upvotes": 461,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1leset7",
+    "url": "https://reddit.com/r/n8n/comments/1leset7/alright_n8n_pros_and_noobs_lets_talk_about/",
+    "collected_at": "2025-09-02T11:10:07.519015+00:00",
+    "score": 0.150315,
+    "schema_version": "3"
+  },
+  {
+    "id": "0d4e2293e760c5c1bb958321df0cc997fd0e7f76",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Raspberry pi is too expensive I self-host on an old phone",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 61,
+      "upvotes": 426,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mb3yz6",
+    "url": "https://reddit.com/r/n8n/comments/1mb3yz6/raspberry_pi_is_too_expensive_i_selfhost_on_an/",
+    "collected_at": "2025-09-02T11:10:07.519015+00:00",
+    "score": 0.108066,
+    "schema_version": "3"
+  },
+  {
+    "id": "70789f9825ab028c86aec6be034d7130f2394a55",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I’m obsessed with automation – if you need help, I’m offering it for free",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 248,
+      "upvotes": 749,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kty4in",
+    "url": "https://reddit.com/r/automation/comments/1kty4in/im_obsessed_with_automation_if_you_need_help_im/",
+    "collected_at": "2025-09-02T11:10:08.256486+00:00",
+    "score": 0.301864,
+    "schema_version": "3"
+  },
+  {
+    "id": "ab3bf41555bf25c78ea371ae9b936860ec6b3cd3",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I automated most of my freelance workflow with n8n + ChatGPT. AMA (No Code)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 115,
+      "upvotes": 723,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jsbaks",
+    "url": "https://reddit.com/r/automation/comments/1jsbaks/i_automated_most_of_my_freelance_workflow_with/",
+    "collected_at": "2025-09-02T11:10:08.256486+00:00",
+    "score": 0.192525,
+    "schema_version": "3"
+  },
+  {
+    "id": "885642f939de760f688ccfe7f832d1cc0bf69cae",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Built This Automation for a Client and Now Make $1K/Month from It",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 118,
+      "upvotes": 703,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lrjupo",
+    "url": "https://reddit.com/r/automation/comments/1lrjupo/built_this_automation_for_a_client_and_now_make/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.192112,
+    "schema_version": "3"
+  },
+  {
+    "id": "825f690300d8e18c254b2d743158850f26736e33",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "If you're trying to learn AI automation, stop collecting courses and start doing this instead",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 78,
+      "upvotes": 570,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lm0x7h",
+    "url": "https://reddit.com/r/automation/comments/1lm0x7h/if_youre_trying_to_learn_ai_automation_stop/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.141719,
+    "schema_version": "3"
+  },
+  {
+    "id": "4ae87967cf988db5284cbb263262417b1e1c886b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I automated 73% of my remote job using these tools (ethically, with my manager's knowledge)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 73,
+      "upvotes": 405,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m219ol",
+    "url": "https://reddit.com/r/automation/comments/1m219ol/i_automated_73_of_my_remote_job_using_these_tools/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.114666,
+    "schema_version": "3"
+  },
+  {
+    "id": "a6f4bd19573372e6d38e1e866e4514d2a6b8172d",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "5 months selling AI automations taught me why 80% of them get abandoned (and how to fix it)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 35,
+      "upvotes": 274,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mihbkv",
+    "url": "https://reddit.com/r/automation/comments/1mihbkv/5_months_selling_ai_automations_taught_me_why_80/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.066142,
+    "schema_version": "3"
+  },
+  {
+    "id": "f35e237b087176e67d73cf33ba3d060af136c758",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How I went from missing a rent payment to 25k in the last 30 days",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 48,
+      "upvotes": 234,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ljeu4b",
+    "url": "https://reddit.com/r/automation/comments/1ljeu4b/how_i_went_from_missing_a_rent_payment_to_25k_in/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.070879,
+    "schema_version": "3"
+  },
+  {
+    "id": "f7b5ff8b9157e472197953e2885fef4170b8a262",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Most AI automation is overhyped BS but the stuff that works actually works really well",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 50,
+      "upvotes": 221,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lwewj2",
+    "url": "https://reddit.com/r/automation/comments/1lwewj2/most_ai_automation_is_overhyped_bs_but_the_stuff/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.07065,
+    "schema_version": "3"
+  },
+  {
+    "id": "fbe1444b5a79d88d44bb68f44b6a03fc9a22edf7",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "determining when to use an AI agent vs IFTT (workflow automation)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 17,
+      "upvotes": 211,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ll6ouv",
+    "url": "https://reddit.com/r/automation/comments/1ll6ouv/determining_when_to_use_an_ai_agent_vs_iftt/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.043024,
+    "schema_version": "3"
+  },
+  {
+    "id": "ff312e4f71bf7750d101967a8d6d8ecd16c19bb6",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Automated my 3D asset workflow for a gamer-style presentation set in 15 minutes",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 2,
+      "upvotes": 194,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ke12uf",
+    "url": "https://reddit.com/r/automation/comments/1ke12uf/automated_my_3d_asset_workflow_for_a_gamerstyle/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.028725,
+    "schema_version": "3"
+  },
+  {
+    "id": "9f477f5ac4bdb52d9f36c986d55c861883f3d68e",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How are you leveraging AI for sales automation to enhance lead conversion?​",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 21,
+      "upvotes": 170,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kaotv3",
+    "url": "https://reddit.com/r/automation/comments/1kaotv3/how_are_you_leveraging_ai_for_sales_automation_to/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.040468,
+    "schema_version": "3"
+  },
+  {
+    "id": "1301d7407988bdb06721b55a38dee1ef26476da8",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How much of your workflow is actually automated?",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 14,
+      "upvotes": 167,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jhwgcu",
+    "url": "https://reddit.com/r/automation/comments/1jhwgcu/how_much_of_your_workflow_is_actually_automated/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.034485,
+    "schema_version": "3"
+  },
+  {
+    "id": "5a23272df887139473cd7baae738c1fa4f856f67",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How I Built Automation Systems for Clients Without Being a Developer",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 35,
+      "upvotes": 169,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1k9t4oo",
+    "url": "https://reddit.com/r/automation/comments/1k9t4oo/how_i_built_automation_systems_for_clients/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.051455,
+    "schema_version": "3"
+  },
+  {
+    "id": "ea88fa7425a707929a0870eac59e4b628746282c",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I’ve been pulling leads straight from Google Maps, here’s how",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 38,
+      "upvotes": 165,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1myexrv",
+    "url": "https://reddit.com/r/automation/comments/1myexrv/ive_been_pulling_leads_straight_from_google_maps/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.05328,
+    "schema_version": "3"
+  },
+  {
+    "id": "48a0932641dd3c300443ff4ace5de6069914e4c9",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "If you’re into automation — you’ll want to be in this.",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 166,
+      "upvotes": 145,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kv1k77",
+    "url": "https://reddit.com/r/automation/comments/1kv1k77/if_youre_into_automation_youll_want_to_be_in_this/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.152211,
+    "schema_version": "3"
+  },
+  {
+    "id": "fd65636e14b956e3a946b57ae22a827db81e9581",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Won a hackathon by building an n8n app",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 40,
+      "upvotes": 142,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kt01o6",
+    "url": "https://reddit.com/r/automation/comments/1kt01o6/won_a_hackathon_by_building_an_n8n_app/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.051652,
+    "schema_version": "3"
+  },
+  {
+    "id": "0a36cfc9633b80b78a2362e387c139baa7589a00",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I build AI agents that work 24/7 — Ask Me Anything (n8n + OpenAI + Automation)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 68,
+      "upvotes": 111,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kze05v",
+    "url": "https://reddit.com/r/automation/comments/1kze05v/i_build_ai_agents_that_work_247_ask_me_anything/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.069569,
+    "schema_version": "3"
+  },
+  {
+    "id": "530559890bf00013ee3ffaac88a55b86ac63ca31",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Building automations: 5 hard truths YouTube gurus never tell you (after 5+ years in the trenches)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 25,
+      "upvotes": 108,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m8u03b",
+    "url": "https://reddit.com/r/automation/comments/1m8u03b/building_automations_5_hard_truths_youtube_gurus/",
+    "collected_at": "2025-09-02T11:10:08.257486+00:00",
+    "score": 0.034975,
+    "schema_version": "3"
+  },
+  {
+    "id": "085a26f8cf068e88017183aab685660a425f0e22",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Built a full real estate automation system for $500/month",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 29,
+      "upvotes": 110,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lspw8h",
+    "url": "https://reddit.com/r/automation/comments/1lspw8h/built_a_full_real_estate_automation_system_for/",
+    "collected_at": "2025-09-02T11:10:08.258492+00:00",
+    "score": 0.038434,
+    "schema_version": "3"
+  },
+  {
+    "id": "a4cc73a8f5e5bd09200406acf1f1d59f6b0690b9",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How I Used N8n, Google Maps API, and Anymail Finder to Go From 15 Leads in 3 Hours to 100 Leads in 15 Minutes",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 46,
+      "upvotes": 101,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ly544y",
+    "url": "https://reddit.com/r/automation/comments/1ly544y/how_i_used_n8n_google_maps_api_and_anymail_finder/",
+    "collected_at": "2025-09-02T11:10:08.258492+00:00",
+    "score": 0.050686,
+    "schema_version": "3"
+  },
+  {
+    "id": "fe2569f258a02dbaf98c6aa74fa8c46548835cd2",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Read This if You Want to Sell AI Automation Workflows",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 16,
+      "upvotes": 102,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lrnke0",
+    "url": "https://reddit.com/r/automation/comments/1lrnke0/read_this_if_you_want_to_sell_ai_automation/",
+    "collected_at": "2025-09-02T11:10:08.258492+00:00",
+    "score": 0.026983,
+    "schema_version": "3"
+  },
+  {
+    "id": "53ecb5351386d364030981fe73e37a4f63a4dc87",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Instagram Automation",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 32,
+      "upvotes": 98,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l5jwtw",
+    "url": "https://reddit.com/r/automation/comments/1l5jwtw/instagram_automation/",
+    "collected_at": "2025-09-02T11:10:08.258492+00:00",
+    "score": 0.03914,
+    "schema_version": "3"
+  },
+  {
+    "id": "f105b30be556cc898e53f41c1b5b098ce2b785fc",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I've spent like 250 hours building a free Google Sheets to TikTok poster",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 99,
+      "upvotes": 195,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1kkqhx2",
+    "url": "https://reddit.com/r/automation/comments/1kkqhx2/ive_spent_like_250_hours_building_a_free_google/",
+    "collected_at": "2025-09-02T11:10:08.943754+00:00",
+    "score": 0.105956,
+    "schema_version": "3"
+  },
+  {
+    "id": "fb51fa4e9b860062365eb000cac32cb0d1b8ee0a",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built an automation that writes, designs and posts social content from a Google Sheet in under two minutes",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 33,
+      "upvotes": 108,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lff4ph",
+    "url": "https://reddit.com/r/automation/comments/1lff4ph/i_built_an_automation_that_writes_designs_and/",
+    "collected_at": "2025-09-02T11:10:08.943754+00:00",
+    "score": 0.041333,
+    "schema_version": "3"
+  },
+  {
+    "id": "67722ad4ef5f80a6ffb8079ae502530a898d2043",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built my own TTS because I didn’t want to pay ElevenLabs - now it runs 7 channels and makes $30k/yr",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 84,
+      "upvotes": 91,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m727ps",
+    "url": "https://reddit.com/r/automation/comments/1m727ps/i_built_my_own_tts_because_i_didnt_want_to_pay/",
+    "collected_at": "2025-09-02T11:10:08.943754+00:00",
+    "score": 0.079488,
+    "schema_version": "3"
+  },
+  {
+    "id": "b290d14d33479344652020cab44c15e657b66cb8",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I replaced Mailchimp/Instantly with an n8n automation (5K sends, replies in Gmail, free template)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 16,
+      "upvotes": 88,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mnlqiu",
+    "url": "https://reddit.com/r/automation/comments/1mnlqiu/i_replaced_mailchimpinstantly_with_an_n8n/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.025025,
+    "schema_version": "3"
+  },
+  {
+    "id": "20488b46bdc4313ae2fb6de91211593bd9ea39f5",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I Tried 6 PDF Extraction Tools—Here’s What I Learned",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 55,
+      "upvotes": 80,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jp5i3t",
+    "url": "https://reddit.com/r/automation/comments/1jp5i3t/i_tried_6_pdf_extraction_toolsheres_what_i_learned/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.054901,
+    "schema_version": "3"
+  },
+  {
+    "id": "a8f72c5a33771b8235dc8594beee69bf54239093",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built n8n Copilot to make automation faster for everyone",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 16,
+      "upvotes": 65,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lop4bb",
+    "url": "https://reddit.com/r/automation/comments/1lop4bb/i_built_n8n_copilot_to_make_automation_faster_for/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.021808,
+    "schema_version": "3"
+  },
+  {
+    "id": "2847858443432f53dd0ec54528a124a92c979531",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built an AI workflow that can scrape local news and generate full-length podcast audio (uses n8n + ElevenLabs v3 model + Firecrawl)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 9,
+      "upvotes": 58,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mzvrtt",
+    "url": "https://reddit.com/r/automation/comments/1mzvrtt/i_built_an_ai_workflow_that_can_scrape_local_news/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.015265,
+    "schema_version": "3"
+  },
+  {
+    "id": "e0f82414b84170ee038c3c06a8b8494bb6c77e38",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Built My First AI Automation Using Make.com – Here’s What I Learned",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 22,
+      "upvotes": 53,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ik1rk4",
+    "url": "https://reddit.com/r/automation/comments/1ik1rk4/built_my_first_ai_automation_using_makecom_heres/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.024898,
+    "schema_version": "3"
+  },
+  {
+    "id": "fb7f0e2d1e31d1d230ad3e1c458db3012db0c06b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I spent 3 hours building a $0.15 marketing automation that generates a week of social content - [full video]",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 33,
+      "upvotes": 54,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ld2m79",
+    "url": "https://reddit.com/r/automation/comments/1ld2m79/i_spent_3_hours_building_a_015_marketing/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.03378,
+    "schema_version": "3"
+  },
+  {
+    "id": "4476f2715a02fed8596fec7831d072188e6a61b4",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Content Marketing Automation with Simple Prompts",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 13,
+      "upvotes": 43,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1llxwp9",
+    "url": "https://reddit.com/r/automation/comments/1llxwp9/content_marketing_automation_with_simple_prompts/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.016346,
+    "schema_version": "3"
+  },
+  {
+    "id": "7e2c4d105b9479e413285e98c59e8d0e0f8504eb",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "LinkedIn / Apollo Scraper + Outreach Automation",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 14,
+      "upvotes": 42,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lt6ish",
+    "url": "https://reddit.com/r/automation/comments/1lt6ish/linkedin_apollo_scraper_outreach_automation/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.017001,
+    "schema_version": "3"
+  },
+  {
+    "id": "34ddd5c9f78f3c2c8a59460ea9ba05ade299ab9b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Client Feedback Bot (Telegram + n8n)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 6,
+      "upvotes": 42,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1k36zw2",
+    "url": "https://reddit.com/r/automation/comments/1k36zw2/client_feedback_bot_telegram_n8n/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.010643,
+    "schema_version": "3"
+  },
+  {
+    "id": "1dbdb2260ae8441c21f49051d8475ba3b8e0af08",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "🔥 Automate Google Keyword Research with n8n! 🔥",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 85,
+      "upvotes": 39,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1j9mcna",
+    "url": "https://reddit.com/r/automation/comments/1j9mcna/automate_google_keyword_research_with_n8n/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.073009,
+    "schema_version": "3"
+  },
+  {
+    "id": "9a10f4a94c3fddecb2355ae69ea2cb73dbb78736",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "These 21 Automation Hacks Changed My Workflow Forever",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 3,
+      "upvotes": 37,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mo5nqv",
+    "url": "https://reddit.com/r/automation/comments/1mo5nqv/these_21_automation_hacks_changed_my_workflow/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.00756,
+    "schema_version": "3"
+  },
+  {
+    "id": "5233f28d84b096e44c459859fe5421ae51670509",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I got 6 clients in 34 days",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 32,
+      "upvotes": 34,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1n0ulc4",
+    "url": "https://reddit.com/r/automation/comments/1n0ulc4/i_got_6_clients_in_34_days/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.030188,
+    "schema_version": "3"
+  },
+  {
+    "id": "6a73fa7f304ccaa2ef868ba43d7c176e52d2013a",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built an AI automation that scrapes my competitor's product reviews and social media comments (n8n + MCP + AI) - Here's everything",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 7,
+      "upvotes": 36,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lsspv8",
+    "url": "https://reddit.com/r/automation/comments/1lsspv8/i_built_an_ai_automation_that_scrapes_my/",
+    "collected_at": "2025-09-02T11:10:08.944754+00:00",
+    "score": 0.010599,
+    "schema_version": "3"
+  },
+  {
+    "id": "351a318310066b0d02df76087fa2bc9c12d52869",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I Turned my idle n8n Workflow Into a Monetizable SaaS App (Here's How in Simple Steps)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 33,
+      "upvotes": 97,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ln5ao1",
+    "url": "https://reddit.com/r/automation/comments/1ln5ao1/i_turned_my_idle_n8n_workflow_into_a_monetizable/",
+    "collected_at": "2025-09-02T11:10:09.864634+00:00",
+    "score": 0.039795,
+    "schema_version": "3"
+  },
+  {
+    "id": "d26d3c3aecd8b81ce82dc266d09e99d732c1c4cf",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "The BEST automation systems use the LEAST amount of AI (and are NOT built with no-code)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 27,
+      "upvotes": 92,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mof3kj",
+    "url": "https://reddit.com/r/automation/comments/1mof3kj/the_best_automation_systems_use_the_least_amount/",
+    "collected_at": "2025-09-02T11:10:09.864634+00:00",
+    "score": 0.034327,
+    "schema_version": "3"
+  },
+  {
+    "id": "d4a3aedcbd0497641b4dbc2ea597245e170be913",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How I turned a boring task into a 5-minute automation",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 8,
+      "upvotes": 94,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1muaoos",
+    "url": "https://reddit.com/r/automation/comments/1muaoos/how_i_turned_a_boring_task_into_a_5minute/",
+    "collected_at": "2025-09-02T11:10:09.864634+00:00",
+    "score": 0.019506,
+    "schema_version": "3"
+  },
+  {
+    "id": "68b67515e5980f8b5ea13525da1fc2aeef9ff7a3",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I just built my dream B2B sales team with no employees. Just agents &amp; code...",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 32,
+      "upvotes": 84,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l5tipu",
+    "url": "https://reddit.com/r/automation/comments/1l5tipu/i_just_built_my_dream_b2b_sales_team_with_no/",
+    "collected_at": "2025-09-02T11:10:09.864634+00:00",
+    "score": 0.037181,
+    "schema_version": "3"
+  },
+  {
+    "id": "d31dd919decaa62e2446255c2e6c71f6bbff1706",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "From someone deep in the n8n trenches — here’s the truth they won’t tell you 👇",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 34,
+      "upvotes": 82,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ma9usv",
+    "url": "https://reddit.com/r/automation/comments/1ma9usv/from_someone_deep_in_the_n8n_trenches_heres_the/",
+    "collected_at": "2025-09-02T11:10:09.864634+00:00",
+    "score": 0.038491,
+    "schema_version": "3"
+  },
+  {
+    "id": "023b59b595dc1bab8583f0b6be5daf104747ad2d",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I Spent 6 hours automating a 5 minute task. WHY DO I KEEP DOING THIS TO MYSELF",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 26,
+      "upvotes": 68,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mp5p55",
+    "url": "https://reddit.com/r/automation/comments/1mp5p55/i_spent_6_hours_automating_a_5_minute_task_why_do/",
+    "collected_at": "2025-09-02T11:10:09.865634+00:00",
+    "score": 0.030175,
+    "schema_version": "3"
+  },
+  {
+    "id": "90df7baea2dbc0749a098af0d4c6f74c029c97c9",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Most people building “agents” in n8n are just doing glorified automations — here’s why",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 25,
+      "upvotes": 60,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l4vc5b",
+    "url": "https://reddit.com/r/automation/comments/1l4vc5b/most_people_building_agents_in_n8n_are_just_doing/",
+    "collected_at": "2025-09-02T11:10:09.865634+00:00",
+    "score": 0.028261,
+    "schema_version": "3"
+  },
+  {
+    "id": "745d52438d642f823791751f7f496c0ac3b5890d",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "n8n/zapier ≠ Product",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 15,
+      "upvotes": 59,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l9hpbd",
+    "url": "https://reddit.com/r/automation/comments/1l9hpbd/n8nzapier_product/",
+    "collected_at": "2025-09-02T11:10:09.865634+00:00",
+    "score": 0.020174,
+    "schema_version": "3"
+  },
+  {
+    "id": "8f661fca5524df27b5fb10c95c9e6045220a8f00",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Looking for talent",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 49,
+      "upvotes": 62,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jxn4lg",
+    "url": "https://reddit.com/r/automation/comments/1jxn4lg/looking_for_talent/",
+    "collected_at": "2025-09-02T11:10:10.696798+00:00",
+    "score": 0.047615,
+    "schema_version": "3"
+  },
+  {
+    "id": "c85300ed606b5a05c3e500facab2d971a7046e41",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Building an AI Call Agent with VAPI + N8N (Outbound Calls Made Easy)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 6,
+      "upvotes": 42,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1n3yntz",
+    "url": "https://reddit.com/r/automation/comments/1n3yntz/building_an_ai_call_agent_with_vapi_n8n_outbound/",
+    "collected_at": "2025-09-02T11:10:10.696798+00:00",
+    "score": 0.010643,
+    "schema_version": "3"
+  },
+  {
+    "id": "985d996be742879bcd5c09344c931c733e03ce71",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I automated 75% of my growth marketing workflows using AI agents I built myself (no Zapier, no Make, no n8n)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 79,
+      "upvotes": 36,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m7zndu",
+    "url": "https://reddit.com/r/automation/comments/1m7zndu/i_automated_75_of_my_growth_marketing_workflows/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.067821,
+    "schema_version": "3"
+  },
+  {
+    "id": "368633161d09a4e46738b9c133412acb981bfc5c",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built a 24/7 Al content team with n8n - here's what it can do lo",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 52,
+      "upvotes": 34,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l3wfbl",
+    "url": "https://reddit.com/r/automation/comments/1l3wfbl/i_built_a_247_al_content_team_with_n8n_heres_what/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.046083,
+    "schema_version": "3"
+  },
+  {
+    "id": "9e6626c633ab63cff166c8401acdb3421794338d",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I built an n8n content repurposing system that turns YouTube videos into engagement-optimized Twitter + LinkedIn posts",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 6,
+      "upvotes": 35,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lvmfax",
+    "url": "https://reddit.com/r/automation/comments/1lvmfax/i_built_an_n8n_content_repurposing_system_that/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.009664,
+    "schema_version": "3"
+  },
+  {
+    "id": "23144c3df6b0c56d84b437349373011a4d52eb1f",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Experience with n8n and zapier",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 25,
+      "upvotes": 33,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1klgbnw",
+    "url": "https://reddit.com/r/automation/comments/1klgbnw/experience_with_n8n_and_zapier/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.024485,
+    "schema_version": "3"
+  },
+  {
+    "id": "59f90c43e7ee93c96cb0a740e3f0b17855036c00",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Four Types of AI Systems That Actually Sell (and what they look like)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 4,
+      "upvotes": 34,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lyd4rz",
+    "url": "https://reddit.com/r/automation/comments/1lyd4rz/four_types_of_ai_systems_that_actually_sell_and/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.007935,
+    "schema_version": "3"
+  },
+  {
+    "id": "6d4648d54b8cc12255090aac7698eef8106dc81a",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I analyzed 13 AI Voice Solutions that are selling right now - Here's the exact breakdown",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 11,
+      "upvotes": 16,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ik0s8w",
+    "url": "https://reddit.com/r/automation/comments/1ik0s8w/i_analyzed_13_ai_voice_solutions_that_are_selling/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.01098,
+    "schema_version": "3"
+  },
+  {
+    "id": "f8243010bd9da72d2835c07b93c53d27077906c6",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Way to automate boring work tasks with AI agents and no tech skills",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 25,
+      "upvotes": 16,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1myyd5c",
+    "url": "https://reddit.com/r/automation/comments/1myyd5c/way_to_automate_boring_work_tasks_with_ai_agents/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.022107,
+    "schema_version": "3"
+  },
+  {
+    "id": "5d4521dec089f8238f825fef8c95d78c640213cf",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "How an n8n integrator went from hero to hacked and what it taught us about credential security",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 12,
+      "upvotes": 15,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mdgp5b",
+    "url": "https://reddit.com/r/automation/comments/1mdgp5b/how_an_n8n_integrator_went_from_hero_to_hacked/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.011635,
+    "schema_version": "3"
+  },
+  {
+    "id": "a01051e2c7f52a9bf09a4ae46832dffe6f2d48ad",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "🚀 Built a simple WhatsApp automation system using n8n – happy to share the process!",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 13,
+      "upvotes": 14,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lebybw",
+    "url": "https://reddit.com/r/automation/comments/1lebybw/built_a_simple_whatsapp_automation_system_using/",
+    "collected_at": "2025-09-02T11:10:10.697794+00:00",
+    "score": 0.01229,
+    "schema_version": "3"
+  },
+  {
+    "id": "c7871c42448ba83687572f022fee6568eba9aeb0",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Free n8n Workflow Help (or Pay Me, Your Choice)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 19,
+      "upvotes": 13,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1m56tok",
+    "url": "https://reddit.com/r/automation/comments/1m56tok/free_n8n_workflow_help_or_pay_me_your_choice/",
+    "collected_at": "2025-09-02T11:10:10.698793+00:00",
+    "score": 0.016919,
+    "schema_version": "3"
+  },
+  {
+    "id": "0dcafc1f3c62a1b038adfcec8cc7c55e023d7730",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Get paid for your n8n workflows",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 4,
+      "upvotes": 11,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1irjay6",
+    "url": "https://reddit.com/r/automation/comments/1irjay6/get_paid_for_your_n8n_workflows/",
+    "collected_at": "2025-09-02T11:10:10.698793+00:00",
+    "score": 0.004718,
+    "schema_version": "3"
+  },
+  {
+    "id": "4172346a9aeab40df19f9cebd0e82faa5445f1a9",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Final review: which is the most suitable automation tool for you... Zapier? Make? n8n? Pluga? ",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 14,
+      "upvotes": 11,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ex3m8n",
+    "url": "https://reddit.com/r/automation/comments/1ex3m8n/final_review_which_is_the_most_suitable/",
+    "collected_at": "2025-09-02T11:10:10.698793+00:00",
+    "score": 0.012665,
+    "schema_version": "3"
+  },
+  {
+    "id": "00aa242ba8cf3439fc9f8f9d19c81cab5bda3ff7",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I’ll Build You a Free Automation with n8n – No Catch, Just Want to Help Businesses Here",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 40,
+      "upvotes": 12,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lehb91",
+    "url": "https://reddit.com/r/automation/comments/1lehb91/ill_build_you_a_free_automation_with_n8n_no_catch/",
+    "collected_at": "2025-09-02T11:10:10.698793+00:00",
+    "score": 0.033469,
+    "schema_version": "3"
+  },
+  {
+    "id": "fa1fd4569fe825f713a74fa8e9c8e2ed47da2195",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Hiring: Automation + Prompting Specialist (n8n + ChatGPT + ManyChat)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 16,
+      "upvotes": 10,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1l4nd46",
+    "url": "https://reddit.com/r/automation/comments/1l4nd46/hiring_automation_prompting_specialist_n8n/",
+    "collected_at": "2025-09-02T11:10:10.698793+00:00",
+    "score": 0.014115,
+    "schema_version": "3"
+  },
+  {
+    "id": "e7cc87edf8576348ee9899541ac6e7dba4610c7e",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I just launched a mobile app that turns your voice into automation triggers 🔁🎙️",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 13,
+      "upvotes": 10,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mi2gd8",
+    "url": "https://reddit.com/r/automation/comments/1mi2gd8/i_just_launched_a_mobile_app_that_turns_your/",
+    "collected_at": "2025-09-02T11:10:10.708219+00:00",
+    "score": 0.011731,
+    "schema_version": "3"
+  },
+  {
+    "id": "92ad5d4fb4addb065989e86b4ed62f2229fe3b4b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "i built 50+ agents last year for enterprises, startups, and non profits - AMA",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 95,
+      "upvotes": 522,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1ljpr2b",
+    "url": "https://reddit.com/r/automation/comments/1ljpr2b/i_built_50_agents_last_year_for_enterprises/",
+    "collected_at": "2025-09-02T11:10:11.481818+00:00",
+    "score": 0.148516,
+    "schema_version": "3"
+  },
+  {
+    "id": "484becbaed43ab7832e291acfa9d8cb492030a11",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I Analyzed How This Guy Built a $30K/Month Voice AI Agency in 9 Months (Detailed Breakdown)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 85,
+      "upvotes": 503,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1imbwod",
+    "url": "https://reddit.com/r/automation/comments/1imbwod/i_analyzed_how_this_guy_built_a_30kmonth_voice_ai/",
+    "collected_at": "2025-09-02T11:10:11.482814+00:00",
+    "score": 0.13791,
+    "schema_version": "3"
+  },
+  {
+    "id": "c67368087dd7b23f23a00542390cdf248492c18b",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "Im a retail business owner , (200k/yr) here are what \"ai automation agencies\" are doing wrong",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 75,
+      "upvotes": 177,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1krm7i7",
+    "url": "https://reddit.com/r/automation/comments/1krm7i7/im_a_retail_business_owner_200kyr_here_are_what/",
+    "collected_at": "2025-09-02T11:10:11.482814+00:00",
+    "score": 0.084364,
+    "schema_version": "3"
+  },
+  {
+    "id": "b7696838b9c061d33f187030c5bc41b589c57444",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "What’s the smartest thing you’ve automated lately? I want to learn from you!",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 87,
+      "upvotes": 99,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1lenbwf",
+    "url": "https://reddit.com/r/automation/comments/1lenbwf/whats_the_smartest_thing_youve_automated_lately_i/",
+    "collected_at": "2025-09-02T11:10:11.482814+00:00",
+    "score": 0.082991,
+    "schema_version": "3"
+  },
+  {
+    "id": "597b54c549904f4df14441300456ae44907bba63",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I Built an AI Automation that Got 4 Million Impressions on Reddit",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 32,
+      "upvotes": 96,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1jdn40o",
+    "url": "https://reddit.com/r/automation/comments/1jdn40o/i_built_an_ai_automation_that_got_4_million/",
+    "collected_at": "2025-09-02T11:10:11.482814+00:00",
+    "score": 0.03886,
+    "schema_version": "3"
+  },
+  {
+    "id": "d3cab5ebab5f5b1f37da6267b64fb9410d2d5f5d",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "I'm offering free automation help – 5 years in the industry (Ask Me Anything)",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 55,
+      "upvotes": 96,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1k2hqga",
+    "url": "https://reddit.com/r/automation/comments/1k2hqga/im_offering_free_automation_help_5_years_in_the/",
+    "collected_at": "2025-09-02T11:10:11.482814+00:00",
+    "score": 0.057139,
+    "schema_version": "3"
+  },
+  {
+    "id": "d4b4a5b5d7f7e52138800bbcbfddd903597d1f3e",
+    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "workflow": "You have one year to master automation: what do you focus on?",
+    "platform": "Reddit",
+    "popularity_metrics": {
+      "views": null,
+      "likes": null,
+      "comments": 52,
+      "upvotes": 94,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1mmmt3s",
+    "url": "https://reddit.com/r/automation/comments/1mmmt3s/you_have_one_year_to_master_automation_what_do/",
+    "collected_at": "2025-09-02T11:10:11.482814+00:00",
+    "score": 0.054475,
+    "schema_version": "3"
+  }
+]

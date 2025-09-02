@@ -41,7 +41,7 @@ coverage.xml
 # Cache and output directories
 cache/
 output/*.tmp
-output/*.json
+
 
 # Virtual environments
 .venv/
