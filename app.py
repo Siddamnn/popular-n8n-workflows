@@ -886,6 +886,12 @@ async def on_startup():
             await asyncio.gather(*tasks, return_exceptions=True)
             jobs[job_id]["total_collected"] = sum(jobs[job_id]["counts"].values())
             jobs[job_id]["completed_at"] = datetime.now(timezone.utc).isoformat()
+            # Summary statistics
+            counts = jobs[job_id]["counts"]
+            print("[summary][auto] job", job_id)
+            for src, cnt in counts.items():
+                print(f"  - {src}: {cnt}")
+            print(f"  Total: {jobs[job_id]['total_collected']}")
             print(f"[startup] Auto collection job {job_id} completed")
             global last_completed_job_id
             last_completed_job_id = job_id
@@ -1018,6 +1024,11 @@ async def collect_data(source: str = "all"):
         await asyncio.gather(*tasks, return_exceptions=True)
         jobs[job_id]["total_collected"] = sum(jobs[job_id]["counts"].values())
         jobs[job_id]["completed_at"] = datetime.now(timezone.utc).isoformat()
+        counts = jobs[job_id]["counts"]
+        print(f"[summary][manual] job {job_id}")
+        for src, cnt in counts.items():
+            print(f"  - {src}: {cnt}")
+        print(f"  Total: {jobs[job_id]['total_collected']}")
 
     global last_completed_job_id
     last_completed_job_id = job_id

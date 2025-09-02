@@ -1,83 +1,83 @@
 [
   {
     "id": "b426848fe77b725038ebf41a67a2756db99d990c",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "platform": "GitHub",
     "popularity_metrics": {
       "views": null,
-      "likes": 134455,
+      "likes": 134508,
       "comments": null,
-      "upvotes": 134455,
+      "upvotes": 134508,
       "like_to_view_ratio": null
     },
     "country": "unknown",
     "source_id": "193215554",
     "url": "https://github.com/n8n-io/n8n",
-    "collected_at": "2025-09-02T11:10:04.618415+00:00",
+    "collected_at": "2025-09-02T15:14:28.792707+00:00",
     "score": 1.0,
     "schema_version": "3"
   },
   {
     "id": "dee43104972113014f008429d76a3a7b371be181",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "awesome-n8n-templates - Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.",
     "platform": "GitHub",
     "popularity_metrics": {
       "views": null,
-      "likes": 10678,
+      "likes": 10691,
       "comments": null,
-      "upvotes": 10678,
+      "upvotes": 10691,
       "like_to_view_ratio": null
     },
     "country": "unknown",
     "source_id": "980205160",
     "url": "https://github.com/enescingoz/awesome-n8n-templates",
-    "collected_at": "2025-09-02T11:10:04.618415+00:00",
-    "score": 0.079417,
+    "collected_at": "2025-09-02T15:14:28.792707+00:00",
+    "score": 0.079482,
     "schema_version": "3"
   },
   {
     "id": "d6878d61f766673a3d23530245a3cd6f192f2689",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-free-templates -  A curated set of 200+ plug-and-play n8n workflows that fuse classic automation with today’s AI stack—vector DBs, embeddings, and LLMs. Import any JSON, add your creds, hit Activate, and you’re live. Built to demo, prototype, or drop straight into production.",
     "platform": "GitHub",
     "popularity_metrics": {
       "views": null,
-      "likes": 3427,
+      "likes": 3432,
       "comments": null,
-      "upvotes": 3427,
+      "upvotes": 3432,
       "like_to_view_ratio": null
     },
     "country": "unknown",
     "source_id": "986087124",
     "url": "https://github.com/wassupjay/n8n-free-templates",
-    "collected_at": "2025-09-02T11:10:04.618415+00:00",
-    "score": 0.025488,
+    "collected_at": "2025-09-02T15:14:28.792707+00:00",
+    "score": 0.025515,
     "schema_version": "3"
   },
   {
     "id": "fcc0758cc02cc80bb1e68d9e520591ee133655a5",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-docs - Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI functionality into your workflows.",
     "platform": "GitHub",
     "popularity_metrics": {
       "views": null,
-      "likes": 983,
+      "likes": 986,
       "comments": null,
-      "upvotes": 983,
+      "upvotes": 986,
       "like_to_view_ratio": null
     },
     "country": "unknown",
     "source_id": "266339717",
     "url": "https://github.com/n8n-io/n8n-docs",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.007311,
+    "collected_at": "2025-09-02T15:14:28.792707+00:00",
+    "score": 0.00733,
     "schema_version": "3"
   },
   {
     "id": "e88547c681d88e1861393ca331a468aac8a429c3",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "bytechef - Open-source, low-code, extendable API integration & workflow automation platform. Integrate your organization or your SaaS product with any third party API",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -90,13 +90,13 @@
     "country": "unknown",
     "source_id": "411912097",
     "url": "https://github.com/bytechefhq/bytechef",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.004455,
+    "collected_at": "2025-09-02T15:14:28.792707+00:00",
+    "score": 0.004453,
     "schema_version": "3"
   },
   {
     "id": "c0777a63994ba32a8a9a9d8ac73d7271b491fda8",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "awesome-workflow-automation - A curated list of Workflow Automation  Software, Engines and Tools",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -109,13 +109,13 @@
     "country": "unknown",
     "source_id": "25362254",
     "url": "https://github.com/dariubs/awesome-workflow-automation",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.004239,
+    "collected_at": "2025-09-02T15:14:28.792707+00:00",
+    "score": 0.004238,
     "schema_version": "3"
   },
   {
     "id": "1b775d051756e8140baad11920cafe2e5f794147",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-ai-automations - Collection of n8n workflows, AI automations, and AI agents created for The Recap AI YouTube channel and the AI Automation Mastery free Skool community.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -128,13 +128,13 @@
     "country": "unknown",
     "source_id": "993376725",
     "url": "https://github.com/lucaswalter/n8n-ai-automations",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.004158,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.004156,
     "schema_version": "3"
   },
   {
     "id": "acc5a56497e1ce5a0a6039a16a473be842751a0f",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-helm-chart - A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -147,13 +147,13 @@
     "country": "unknown",
     "source_id": "315769786",
     "url": "https://github.com/8gears/n8n-helm-chart",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.003748,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.003747,
     "schema_version": "3"
   },
   {
     "id": "609f4adc8ae0ab064861adc7d94fc6bc53d5a431",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-workflow-builder - AI assistant integration for n8n workflow automation through Model Context Protocol (MCP). Connect Claude Desktop, ChatGPT, and other AI assistants to n8n for natural language workflow management.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -166,13 +166,13 @@
     "country": "unknown",
     "source_id": "916847592",
     "url": "https://github.com/makafeli/n8n-workflow-builder",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.002603,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.002602,
     "schema_version": "3"
   },
   {
     "id": "7d4a5f49a4db328969ab77eac8922648e4aa18b1",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "self-host-n8n-on-gcr - Self-host n8n on Google Cloud without the subscription fees or server headaches - because your automation workflows shouldn't cost more than your coffee budget",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -185,13 +185,13 @@
     "country": "unknown",
     "source_id": "949197602",
     "url": "https://github.com/datawranglerai/self-host-n8n-on-gcr",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.002603,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.002602,
     "schema_version": "3"
   },
   {
     "id": "3d63bf5152e16d3185eef3530c8764e89d5a1de6",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "Automation-workflow - React flow Examples with Workflow automations and others examples in one repo.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -204,13 +204,13 @@
     "country": "unknown",
     "source_id": "522366390",
     "url": "https://github.com/Azim-Ahmed/Automation-workflow",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.001904,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.001903,
     "schema_version": "3"
   },
   {
     "id": "9a2fc5232c6f8efab9b0fb62db572ba2bda342d8",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "awesome-n8n-workflows - A curated collection of awesome n8n workflows for automation, integration, and productivity. Explore ready-to-use JSON workflows for analytics, communication, CRM, e-commerce, finance, HR, marketing, monitoring, security, and more.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -223,13 +223,13 @@
     "country": "unknown",
     "source_id": "1033947074",
     "url": "https://github.com/felipfr/awesome-n8n-workflows",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.001599,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.001598,
     "schema_version": "3"
   },
   {
     "id": "e94fa17f2b5a9e57c1b86e16dccc1f6ccc725382",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "project-nova - A multi-agent AI architecture that connects 25+ specialized agents through n8n and MCP servers. Project NOVA routes requests to domain-specific experts, enabling control of applications from knowledge bases to DAWs, home automation to development tools. Includes system prompts, Dockerfiles, and workflows for a complete AI assistant ecosystem.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -242,13 +242,13 @@
     "country": "unknown",
     "source_id": "983871670",
     "url": "https://github.com/dujonwalker/project-nova",
-    "collected_at": "2025-09-02T11:10:04.619513+00:00",
-    "score": 0.001599,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.001598,
     "schema_version": "3"
   },
   {
     "id": "6e4ab4f7cf6f1c8a32b8b629b69f91e0c59cf541",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-python - Run Python code on n8n",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -261,13 +261,13 @@
     "country": "unknown",
     "source_id": "458153085",
     "url": "https://github.com/naskio/n8n-nodes-python",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
-    "score": 0.001421,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.00142,
     "schema_version": "3"
   },
   {
     "id": "7301ed865466f96896a5a92933af7d4cee219c9b",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n_agent - LLM based AI Agent for generating n8n agentic automation workflows from a one-shot text prompt",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -280,13 +280,13 @@
     "country": "unknown",
     "source_id": "984880105",
     "url": "https://github.com/kingler/n8n_agent",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
     "score": 0.001108,
     "schema_version": "3"
   },
   {
     "id": "ab08321b3f271e37f00d04de84a446e501e22bcf",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-mcp-server - MCP server implementation for n8n workflow automation",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -299,13 +299,13 @@
     "country": "unknown",
     "source_id": "934927954",
     "url": "https://github.com/illuminaresolutions/n8n-mcp-server",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
     "score": 0.000803,
     "schema_version": "3"
   },
   {
     "id": "9a33978c43e5255aff42dd070fe3856463872474",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "laravel-n8n - Laravel N8N: A complete, expressive and fluent Laravel client for the n8n public REST API and Webhooks Triggering.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -318,32 +318,32 @@
     "country": "unknown",
     "source_id": "1011752570",
     "url": "https://github.com/kayedspace/laravel-n8n",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
     "score": 0.000684,
     "schema_version": "3"
   },
   {
     "id": "aba0c6098cf90c35e2f49c9c32dbfb715d45ccee",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "150-n8n-templates - A collection of 150 free n8n automation templates built for real-world use—no fluff, no filler. From lead generation and follow-ups to AI workflows and API integrations, these plug-and-play templates help you move fast, automate smarter, and scale without the tech headaches. Import, customize, and start building.",
     "platform": "GitHub",
     "popularity_metrics": {
       "views": null,
-      "likes": 85,
+      "likes": 86,
       "comments": null,
-      "upvotes": 85,
+      "upvotes": 86,
       "like_to_view_ratio": null
     },
     "country": "unknown",
     "source_id": "962363624",
     "url": "https://github.com/jz-clln/150-n8n-templates",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
-    "score": 0.000632,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.000639,
     "schema_version": "3"
   },
   {
     "id": "04e5a715d380df802db6d7d7ba3d17d6eb0a1f80",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-workflows - My workflows for n8n automation",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -356,13 +356,13 @@
     "country": "unknown",
     "source_id": "496256392",
     "url": "https://github.com/reorx/n8n-workflows",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
     "score": 0.000506,
     "schema_version": "3"
   },
   {
     "id": "e764c580c8326dbe1e6afb5803d9688d81370c18",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "awesome-n8n-workflows - A curated collection of practical n8n workflows for automation enthusiasts",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -375,13 +375,13 @@
     "country": "unknown",
     "source_id": "1003364435",
     "url": "https://github.com/lqshow/awesome-n8n-workflows",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
-    "score": 0.000469,
+    "collected_at": "2025-09-02T15:14:28.793707+00:00",
+    "score": 0.000468,
     "schema_version": "3"
   },
   {
     "id": "0c40a7bcc9efd1a609622e8fc08ef7ca720334de",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-ticktick - TickTick module for custom n8n node",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -394,13 +394,13 @@
     "country": "unknown",
     "source_id": "776861181",
     "url": "https://github.com/hansdoebel/n8n-nodes-ticktick",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
+    "collected_at": "2025-09-02T15:14:28.794707+00:00",
     "score": 0.000379,
     "schema_version": "3"
   },
   {
     "id": "2e7f5e17569dada5e6bbdec57aa2298cc068fbec",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n - Self-hosted Workflow Automation Tool",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -413,13 +413,13 @@
     "country": "unknown",
     "source_id": "391229630",
     "url": "https://github.com/railwayapp-templates/n8n",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
+    "collected_at": "2025-09-02T15:14:28.794707+00:00",
     "score": 0.000297,
     "schema_version": "3"
   },
   {
     "id": "65266dba863760992613dbc8e9871c3a823f0843",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-azure-vm-starter -  🚀 Deploy n8n on Azure VM with Docker, auto-HTTPS, and PostgreSQL. Simple scripts for easy setup and maintenance. ~$15/month solution for running your automation workflows in the cloud.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -432,13 +432,13 @@
     "country": "unknown",
     "source_id": "935663170",
     "url": "https://github.com/jawand/n8n-azure-vm-starter",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
+    "collected_at": "2025-09-02T15:14:28.794707+00:00",
     "score": 0.000297,
     "schema_version": "3"
   },
   {
     "id": "17fb74e141370f10653268a19b17daf8ac17860c",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-Doc-PT-BR - Documentação completa do n8n em português brasileiro - Hub de conhecimento para a comunidade brasileira de automação ",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -451,32 +451,32 @@
     "country": "unknown",
     "source_id": "1010907931",
     "url": "https://github.com/n8n-brasil/n8n-Doc-PT-BR",
-    "collected_at": "2025-09-02T11:10:04.620513+00:00",
+    "collected_at": "2025-09-02T15:14:28.794707+00:00",
     "score": 0.000297,
     "schema_version": "3"
   },
   {
     "id": "d5efc48a8ef4a7035da13a14c7fbc83dbe9c3b57",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-automation-templates-5000 - 5000+ real-world, production-ready n8n workflow templates with AI, CRM, finance, e-commerce, marketing, and RAG automation. Free and open source.",
     "platform": "GitHub",
     "popularity_metrics": {
       "views": null,
-      "likes": 33,
+      "likes": 39,
       "comments": null,
-      "upvotes": 33,
+      "upvotes": 39,
       "like_to_view_ratio": null
     },
     "country": "unknown",
     "source_id": "1032648549",
     "url": "https://github.com/ritik-prog/n8n-automation-templates-5000",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
-    "score": 0.000245,
+    "collected_at": "2025-09-02T15:14:28.794707+00:00",
+    "score": 0.00029,
     "schema_version": "3"
   },
   {
     "id": "a8c59d0ad28690fa693e40560303761d6cfb6869",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "ct-n8n-templates - Supercharge Your n8n Business Automation with 200+ Ready-to-Use Workflows!",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -489,13 +489,13 @@
     "country": "unknown",
     "source_id": "1003002567",
     "url": "https://github.com/creativetimofficial/ct-n8n-templates",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000245,
     "schema_version": "3"
   },
   {
     "id": "4e7a8bd19f6a37ae17f72c4820fb4bfdbfa63d80",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "cronflow - The fastest code-first workflow automation engine. TypeScript-native, AI-ready, 98% faster than n8n/Zapier. Built with Rust + Bun.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -508,13 +508,13 @@
     "country": "unknown",
     "source_id": "1023463730",
     "url": "https://github.com/dali-benothmen/cronflow",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000238,
     "schema_version": "3"
   },
   {
     "id": "f211af691745c3973f32562151de6f60221f825d",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "End-to-End-Agentic-Ai-Automation-Lab - This repository contains hands-on projects, code examples, and deployment workflows. Explore multi-agent systems, LangChain, LangGraph, CrewAI, RAG, automation with n8n, and scalable agent deployment using Docker, AWS, and BentoML.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -527,13 +527,13 @@
     "country": "unknown",
     "source_id": "985595150",
     "url": "https://github.com/MDalamin5/End-to-End-Agentic-Ai-Automation-Lab",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000171,
     "schema_version": "3"
   },
   {
     "id": "650b0d00057f908e5f82e01cdcd474750431457d",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "flot - Open source Make alternative, a workflow automation tool that is just as easy to use as it is deployed.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -546,13 +546,13 @@
     "country": "unknown",
     "source_id": "847525376",
     "url": "https://github.com/FlotHQ/flot",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000164,
     "schema_version": "3"
   },
   {
     "id": "d98e59ddf0f8e402662a408e40f89c26d88b91cc",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-workflows - This is a collection of workflows, where I’m exploring and building powerful automations to simplify daily tasks and improve productivity. ",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -565,13 +565,13 @@
     "country": "unknown",
     "source_id": "901949233",
     "url": "https://github.com/durbaezgomez/n8n-workflows",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000156,
     "schema_version": "3"
   },
   {
     "id": "a8e0eff5d414f57182aeb932eb426ab49f2a8553",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "docker-n8n - Dockerized workflow automation tool",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -584,13 +584,13 @@
     "country": "unknown",
     "source_id": "271904010",
     "url": "https://github.com/tiredofit/docker-n8n",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000156,
     "schema_version": "3"
   },
   {
     "id": "82bded031b289a22bdb490f3d409b567c0d3f7df",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-whatsapp-automation - A complete WhatsApp automation system for order processing using n8n workflows, Node.js, and WhatsApp Business API.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -603,13 +603,13 @@
     "country": "unknown",
     "source_id": "1013194389",
     "url": "https://github.com/mubashir-786/n8n-whatsapp-automation",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000156,
     "schema_version": "3"
   },
   {
     "id": "6d2c3b8c23311e2eb124064e05b2e216b3e56a02",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-automations - Ready-to-use n8n automation workflows for business, AI, and productivity. Instantly boost efficiency with 22 templates—no coding needed!",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -622,13 +622,13 @@
     "country": "unknown",
     "source_id": "1034524096",
     "url": "https://github.com/MustafaKemal0146/n8n-automations",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000149,
     "schema_version": "3"
   },
   {
     "id": "01b3c481a0ec8aa9983e1045041450bcd8f5eaab",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "ai-automation-jsons - Collection of n8n workflow automation JSONs for various use cases, including AI agents, integrations, and automated processes. Ready-to-import workflows with complete documentation.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -641,13 +641,13 @@
     "country": "unknown",
     "source_id": "973943273",
     "url": "https://github.com/simealdana/ai-automation-jsons",
-    "collected_at": "2025-09-02T11:10:04.621514+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000141,
     "schema_version": "3"
   },
   {
     "id": "04b2b4fc7bda1231fe2458e07e363e2505b0f796",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-twitter-thread-fetcher - Unlock lightning-fast, cost-effective Twitter (X) thread extraction with this ready-to-use n8n workflow template! Effortlessly fetch, merge, and automate entire Twitter threads for research, content curation, or archiving-no more manual copy-paste. Supercharge your social media automation and save time with seamless Twitter API integration!",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -660,13 +660,13 @@
     "country": "unknown",
     "source_id": "984875783",
     "url": "https://github.com/enescingoz/n8n-twitter-thread-fetcher",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000141,
     "schema_version": "3"
   },
   {
     "id": "818fb7e2e18aeb5e412ead56c97ad255ab41b839",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-ikas - A custom n8n node for integrating with ikas e-commerce platform. This node enables seamless automation workflows between ikas and other services through n8n's visual workflow builder.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -679,13 +679,13 @@
     "country": "unknown",
     "source_id": "1026655036",
     "url": "https://github.com/actuallyzefe/n8n-ikas",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000134,
     "schema_version": "3"
   },
   {
     "id": "4774c606f5bf31bccee95251535de1d609ca6eaa",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "whatsapp-n8n-server - 🚀 REST API server for WhatsApp automation via whatsapp-web.js, made to integrate with n8n workflows.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -698,13 +698,13 @@
     "country": "unknown",
     "source_id": "958121882",
     "url": "https://github.com/nicolasdelrosario/whatsapp-n8n-server",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000126,
     "schema_version": "3"
   },
   {
     "id": "de2bde998f655f1072f2be3d71ee44ea94770362",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-chatbots-heroku-deploy - This repository contains a customized version of N8N, an extendable tool for workflow automation. This customized version is focused on chatbots development, integrating nodes that allow to connect chatbot development platforms like Dialogflow.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -717,13 +717,13 @@
     "country": "unknown",
     "source_id": "304889799",
     "url": "https://github.com/jpruden92/n8n-chatbots-heroku-deploy",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000112,
     "schema_version": "3"
   },
   {
     "id": "dd2336669259897e589b3fcd2d7bb73545e95994",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-Backup-Workflows - An automation that automatically backs up all your n8n Workflows for you!",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -736,13 +736,13 @@
     "country": "unknown",
     "source_id": "1032963820",
     "url": "https://github.com/MuhammadAbdullah80/n8n-Backup-Workflows",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000112,
     "schema_version": "3"
   },
   {
     "id": "c1730849c9493c540117a038142e25aa82fd3255",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT - Automatically generate any useful, project-specific Python code (e.g. volume grouping, charts, QC reports) directly from raw Revit (IFC, DWG) data.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -755,13 +755,13 @@
     "country": "unknown",
     "source_id": "1005021603",
     "url": "https://github.com/datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.795706+00:00",
     "score": 0.000104,
     "schema_version": "3"
   },
   {
     "id": "9919ab0db0c73ba5adf1861d14fb5365e8f604ac",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-twitter-thread-repost - Effortlessly extract, translate, rewrite, and repost entire Twitter threads in any language with this powerful n8n workflow. Instantly reach new audiences and automate your multilingual Twitter content—no manual copy-paste, just seamless end-to-end automation. Perfect for creators and social media managers ready to supercharge their global presence",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -774,13 +774,13 @@
     "country": "unknown",
     "source_id": "987007567",
     "url": "https://github.com/enescingoz/n8n-twitter-thread-repost",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
     "score": 0.000104,
     "schema_version": "3"
   },
   {
     "id": "a98ad6cfb1f1c133da48fdd5533a49e147beb2b2",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-duckduckgo - Integrate DuckDuckGo search seamlessly into your n8n workflows. Enhance automation with advanced searches and tailored queries. Try it now!",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -793,13 +793,13 @@
     "country": "unknown",
     "source_id": "779377976",
     "url": "https://github.com/hapheus/n8n-nodes-duckduckgo",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
     "score": 9.7e-05,
     "schema_version": "3"
   },
   {
     "id": "0c22f1171d7fa48c428f8db04b3bf3255edabc87",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-automation-hub - 🚀 Transform your productivity with 200+ battle-tested n8n automation workflows! From AI-powered content creation to smart data processing, connect Gmail, Slack, Telegram, Google Sheets, and dozens more apps effortlessly. Ready-to-deploy templates that turn hours of manual work into seconds of automation magic.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -812,13 +812,13 @@
     "country": "unknown",
     "source_id": "998457822",
     "url": "https://github.com/abderrahimghazali/n8n-automation-hub",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
     "score": 8.9e-05,
     "schema_version": "3"
   },
   {
     "id": "50aaa3bc0b1ddeb33867d1f47a05eb24d47a4412",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-google-speech - new custom module that bridges n8n with Google's powerful Speech API, enabling both speech-to-text and text-to-speech capabilities in your automation workflows!",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -831,13 +831,13 @@
     "country": "unknown",
     "source_id": "946487533",
     "url": "https://github.com/ziobudda/n8n-nodes-google-speech",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
     "score": 8.9e-05,
     "schema_version": "3"
   },
   {
     "id": "fd1be603ff17076962f237a74850fa8166e13a2d",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "bluebubbles-n8n-node - A node/integration with the automation workflow manager, n8n: https://n8n.io",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -850,13 +850,13 @@
     "country": "unknown",
     "source_id": "459696103",
     "url": "https://github.com/BlueBubblesApp/bluebubbles-n8n-node",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
     "score": 8.2e-05,
     "schema_version": "3"
   },
   {
     "id": "6c3598aa2cceba9ef3f3df9caca0753c84e33844",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-templates - AI-powered n8n templates by Solverine. Automate workflows, integrate LLMs, and revolutionize your operations with open-source AI solutions.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -869,13 +869,32 @@
     "country": "unknown",
     "source_id": "995935217",
     "url": "https://github.com/solverineai/n8n-templates",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
+    "score": 8.2e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "3850b04ce7d204dccd66d0cc6f6da7a09d2cbf9d",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
+    "workflow": "n8n-ai-agents - n8n AI Agents Masterclass 2025 Welcome to the n8n AI Agents Masterclass repository! This repository contains a collection of workflow templates that demonstrate how to build powerful AI agents using n8n, a no-code automation platform.",
+    "platform": "GitHub",
+    "popularity_metrics": {
+      "views": null,
+      "likes": 11,
+      "comments": null,
+      "upvotes": 11,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "949941641",
+    "url": "https://github.com/super285915/n8n-ai-agents",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
     "score": 8.2e-05,
     "schema_version": "3"
   },
   {
     "id": "214b7102b505826aa90de19482f8c5a80017b3a4",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "seo-auditor-service - 🔍 Automated SEO auditing service that crawls websites with Screaming Frog and performs AI-powered analysis using OpenAI. Features modular architecture, n8n workflow integration, Google Drive automation, and comprehensive reporting. Built with Node.js.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -888,13 +907,13 @@
     "country": "unknown",
     "source_id": "972863021",
     "url": "https://github.com/market-analyticx/seo-auditor-service",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
     "score": 8.2e-05,
     "schema_version": "3"
   },
   {
     "id": "b87e961c52e7e772d9f3dcdf8b8bad37a2c5eab7",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "aimin - Real AI use cases focused on backend automation, agent-based workflows, RAG pipelines, and system-level integrations using Python, Make, n8n, and local LLMs. Designed to support AI-first product thinking through executable, modular examples built for real systems.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -907,32 +926,13 @@
     "country": "unknown",
     "source_id": "993769699",
     "url": "https://github.com/HeyNina101/aimin",
-    "collected_at": "2025-09-02T11:10:04.622515+00:00",
+    "collected_at": "2025-09-02T15:14:28.796706+00:00",
     "score": 8.2e-05,
     "schema_version": "3"
   },
   {
-    "id": "df38489e7acc3dc48b1a33fc5c2242a5b2f54502",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
-    "workflow": "n8n-automation-2025-AI-Agent-Suite - A comprehensive collection of n8n automation templates featuring AI agents, RAG systems, and enterprise workflows. Includes integrations for Gmail, WhatsApp, Telegram, Slack, and more. Future-ready automation solutions for 2025.",
-    "platform": "GitHub",
-    "popularity_metrics": {
-      "views": null,
-      "likes": 10,
-      "comments": null,
-      "upvotes": 10,
-      "like_to_view_ratio": null
-    },
-    "country": "unknown",
-    "source_id": "990960878",
-    "url": "https://github.com/tannu64/n8n-automation-2025-AI-Agent-Suite",
-    "collected_at": "2025-09-02T11:10:04.623513+00:00",
-    "score": 7.4e-05,
-    "schema_version": "3"
-  },
-  {
     "id": "e8d8fd9f2461aeebc87e69476a505dba860b1c72",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "AI_Document_Management-Ai-Agent- - AI-powered document management workflow using n8n, OneDrive, Google Sheets, and Slack. Automates file sorting, logs activity, and sends team notifications. Features batch processing to prevent API limits. Seamlessly organizes files, updates records, and alerts users. Designed for efficiency and scalability in workflow automation.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -945,13 +945,13 @@
     "country": "unknown",
     "source_id": "960621546",
     "url": "https://github.com/SarathChandra26/AI_Document_Management-Ai-Agent-",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.629422+00:00",
     "score": 1.5e-05,
     "schema_version": "3"
   },
   {
     "id": "483c9ec85fe8f529bbd6346c550e0ae6495e5374",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "automated-kpi-reporter - An automation workflow built with n8n that pulls data from Google Sheets (or a database), calculates daily or weekly KPIs (e.g., sales, conversions, uptime), formats the metrics, and automatically sends reports to stakeholders via Gmail or Slack. Ideal for teams that want hands-free reporting and real-time performance tracking.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -964,32 +964,13 @@
     "country": "unknown",
     "source_id": "1007937418",
     "url": "https://github.com/ShivaRama1414/automated-kpi-reporter",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.629422+00:00",
     "score": 7e-06,
     "schema_version": "3"
   },
   {
-    "id": "b52e968c0888edcb4b5d22d0e3705093399b6d06",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
-    "workflow": "-Smart-Lead-Qualification-Workflow-n8n- - Lead scoring & Slack alerts with n8n. Auto store leads from form to Google Sheets via webhook.",
-    "platform": "GitHub",
-    "popularity_metrics": {
-      "views": null,
-      "likes": 0,
-      "comments": null,
-      "upvotes": 0,
-      "like_to_view_ratio": null
-    },
-    "country": "unknown",
-    "source_id": "1026671603",
-    "url": "https://github.com/mhdSVU/-Smart-Lead-Qualification-Workflow-n8n-",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
-    "score": 0.0,
-    "schema_version": "3"
-  },
-  {
     "id": "24318cf9716b8cb84b3b54ee7b195bbae9875030",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-google-sheet-to-slack-gmail-contacts - n8n automation: Google Sheets to Slack, Gmail, and Google Contacts integration workflow for lead or form data processing.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1002,13 +983,32 @@
     "country": "unknown",
     "source_id": "1018491945",
     "url": "https://github.com/AhmadAliQureshi147/n8n-google-sheet-to-slack-gmail-contacts",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.629422+00:00",
+    "score": 0.0,
+    "schema_version": "3"
+  },
+  {
+    "id": "b52e968c0888edcb4b5d22d0e3705093399b6d06",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
+    "workflow": "-Smart-Lead-Qualification-Workflow-n8n- - Lead scoring & Slack alerts with n8n. Auto store leads from form to Google Sheets via webhook.",
+    "platform": "GitHub",
+    "popularity_metrics": {
+      "views": null,
+      "likes": 0,
+      "comments": null,
+      "upvotes": 0,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1026671603",
+    "url": "https://github.com/mhdSVU/-Smart-Lead-Qualification-Workflow-n8n-",
+    "collected_at": "2025-09-02T15:14:29.629422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "8f83bbdcd1e6d2bfbcf1a6954a359f5b07c16704",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "pluralsight-contact-deduplicator - n8n automation workflow for contact deduplication with Snowflake validation, Slack alerts, and Google Sheets logging.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1021,13 +1021,13 @@
     "country": "unknown",
     "source_id": "1035432494",
     "url": "https://github.com/Sachinjls/pluralsight-contact-deduplicator",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.629422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "0dc465a92ce06f2a7bb266447c87d136ba5dff84",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "recruitment-bot-n8n - Automation workflow for streamlining recruitment using n8n, Google Sheets, Notion, Slack, Gmail, Perplexity AI, and Cal.com — from form submission to candidate stage management and Slack alerts.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1040,13 +1040,13 @@
     "country": "unknown",
     "source_id": "1009284607",
     "url": "https://github.com/AlvLeoAI/recruitment-bot-n8n",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.629422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "76cd887ee9256ce1a0cd9c9c634cb5c530a503fa",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "rem-waste-n8n-challenge - n8n automation workflow for REM Waste lead scoring challenge — featuring webhook integration, scoring logic, Google Sheets storage, Slack alerts, AI recommendations (Gemini), and follow-up automation.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1059,13 +1059,32 @@
     "country": "unknown",
     "source_id": "1014001310",
     "url": "https://github.com/Hussein-Fadhel-Ahmed/rem-waste-n8n-challenge",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.629422+00:00",
+    "score": 0.0,
+    "schema_version": "3"
+  },
+  {
+    "id": "17716d8500b738168b7a5301c26672fdf2608f4b",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
+    "workflow": "n8n-Monitor-Solar-Energy-Production-Send-Alerts-with-Gmail-Google-Sheets-and-Slack - This workflow automatically monitors solar energy production every 2 hours by fetching data from the Energidataservice API. If the energy output falls below a predefined threshold, it instantly notifies users via email. Otherwise, it logs the data into a Google Sheet and posts a daily summary to Slack.",
+    "platform": "GitHub",
+    "popularity_metrics": {
+      "views": null,
+      "likes": 0,
+      "comments": null,
+      "upvotes": 0,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1049150389",
+    "url": "https://github.com/weblineindia/n8n-Monitor-Solar-Energy-Production-Send-Alerts-with-Gmail-Google-Sheets-and-Slack",
+    "collected_at": "2025-09-02T15:14:29.629422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "bf8ecd6b93380745b6825555e9d2539e8e8fa41c",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-lead-automation - An automated workflow built with n8n to capture incoming leads, score them based on budget, log them into Google Sheets, and send real-time Slack notifications to separate channels based on lead quality.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1078,13 +1097,13 @@
     "country": "unknown",
     "source_id": "1027236096",
     "url": "https://github.com/lPooyaNl/n8n-lead-automation",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.630422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "9f19c1f1a116f68673b3e79a0d837e2e7eb805ae",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "AI-Lead-Qualification-N8N - AI-powered n8n workflow for automated B2B lead qualification. Captures leads, enriches data, scores prospects, prioritizes follow-ups, updates Zoho CRM, sends Slack alerts, automates nurture emails, and logs analytics in Google Sheets.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1097,13 +1116,13 @@
     "country": "unknown",
     "source_id": "1038801862",
     "url": "https://github.com/viniciusadrian1/AI-Lead-Qualification-N8N",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.630422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "00fd7ed03ae05da1d132799e26ee391e17582fef",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-automation-demo - Demo repository for showcasing automation workflows with n8n.  This repo is used to trigger and test automated workflows—such as bug tracking, notifications, and data integration—using GitHub events and API integrations with tools like Google Sheets and Slack.  For demo and learning purposes only.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1116,13 +1135,13 @@
     "country": "unknown",
     "source_id": "1032143919",
     "url": "https://github.com/eduardogallifaochoa/n8n-automation-demo",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.630422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "2449eca49ed2037b5933d3dc50f375a2896a3f25",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "N8N-E-commerce-Order-Processor - Built a workflow to automate online store order processing by integrating Webhook, Google Sheets, and Slack. Implemented inventory validation, conditional logic for stock issues, automated email alerts, packing list generation, and team notifications—reducing manual effort and streamlining fulfillment.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1135,13 +1154,13 @@
     "country": "unknown",
     "source_id": "1041303891",
     "url": "https://github.com/Hafsa-Ali/N8N-E-commerce-Order-Processor",
-    "collected_at": "2025-09-02T11:10:05.322403+00:00",
+    "collected_at": "2025-09-02T15:14:29.630422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "fed3c2d6048a346c444bc57f0bc07b91ef6c1e71",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "LeadFlow - LeadFlow -  A fully automated AI-driven lead management workflow built with n8n. It seamlessly captures form submissions, records them in Google Sheets, and initiates personalized follow-up actions through Gmail and Slack without any manual effort.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1154,13 +1173,13 @@
     "country": "unknown",
     "source_id": "1031474440",
     "url": "https://github.com/waniya-badar/LeadFlow",
-    "collected_at": "2025-09-02T11:10:05.323403+00:00",
+    "collected_at": "2025-09-02T15:14:29.630422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "dc8b192edaecf9a106dad45e2186d7c711fb4f66",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "Real-Time-Data-Crawler-and-Aggregator -  2: Real-Time Data Crawler and Aggregator Build a workflow that scrapes or collects real-time data from multiple online sources or APIs (e.g., social media, news, job boards). Process and filter the data inside n8n to extract meaningful insights. Store or forward the processed data to a database, Google Sheets, or notify team members on Slack.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1173,13 +1192,13 @@
     "country": "unknown",
     "source_id": "1031897531",
     "url": "https://github.com/Maryam23468/Real-Time-Data-Crawler-and-Aggregator",
-    "collected_at": "2025-09-02T11:10:05.323403+00:00",
+    "collected_at": "2025-09-02T15:14:29.630422+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "9be7091d42b1002116c5606922eba46839c7162c",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "SelfHost_n8n_Using_GCP - A step-by-step guide to securely deploy the workflow automation tool n8n on Google Cloud Platform (GCP) using Docker, PostgreSQL (Cloud SQL), and reverse proxies (Caddy/Nginx). Includes DNS setup, SSL configuration, and troubleshooting tips.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1192,13 +1211,13 @@
     "country": "unknown",
     "source_id": "932921739",
     "url": "https://github.com/ssbaraar/SelfHost_n8n_Using_GCP",
-    "collected_at": "2025-09-02T11:10:05.980056+00:00",
+    "collected_at": "2025-09-02T15:14:30.402116+00:00",
     "score": 4.5e-05,
     "schema_version": "3"
   },
   {
     "id": "0fae9d0bf7c0e803e027de68e0a4b2ffd8cf7a31",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-Doc-pt-BR - Documentação NÃO‑OFICIAL do n8n em português. Este repositório é um recurso útil para usuários brasileiros. 🐙🌐",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1211,13 +1230,13 @@
     "country": "unknown",
     "source_id": "1013442222",
     "url": "https://github.com/alexcavani/n8n-Doc-pt-BR",
-    "collected_at": "2025-09-02T11:10:05.980056+00:00",
+    "collected_at": "2025-09-02T15:14:30.402116+00:00",
     "score": 7e-06,
     "schema_version": "3"
   },
   {
     "id": "9950f4df1938145a5f5f4512572dce5b708570b1",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "automation.boy - ¡Bienvenido! Aquí comparto mis workflows favoritos de n8n, junto con guías fáciles para instalarlo y tutoriales paso a paso. Si quieres aprender a automatizar tareas sin complicaciones, este repo es para ti.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1230,13 +1249,13 @@
     "country": "unknown",
     "source_id": "996116764",
     "url": "https://github.com/insanerask77/automation.boy",
-    "collected_at": "2025-09-02T11:10:05.980056+00:00",
+    "collected_at": "2025-09-02T15:14:30.403115+00:00",
     "score": 7e-06,
     "schema_version": "3"
   },
   {
     "id": "0430589106b08fe4b384533c32359724f17e5938",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-workflows - n8n workflow json files and tutorial for scannerprotect.de",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1249,13 +1268,13 @@
     "country": "unknown",
     "source_id": "993899674",
     "url": "https://github.com/ScannerProtect/n8n-workflows",
-    "collected_at": "2025-09-02T11:10:05.980056+00:00",
+    "collected_at": "2025-09-02T15:14:30.403115+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "35941b8fcedd14c0e7a199dd8b25e406b8e6fd66",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "First-n8n-workflow - My first n8n workflow guided by 9x tutorial",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1268,32 +1287,13 @@
     "country": "unknown",
     "source_id": "1046666169",
     "url": "https://github.com/msorianomontero/First-n8n-workflow",
-    "collected_at": "2025-09-02T11:10:05.980056+00:00",
-    "score": 0.0,
-    "schema_version": "3"
-  },
-  {
-    "id": "a641295f68e63a0157986aa8f8e5c90b2613803b",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
-    "workflow": "N8n-Automation-Tutorial - An n8n workflow is created which gets data from a server, filter it, logs it into airtable and notify to a discord channel",
-    "platform": "GitHub",
-    "popularity_metrics": {
-      "views": null,
-      "likes": 0,
-      "comments": null,
-      "upvotes": 0,
-      "like_to_view_ratio": null
-    },
-    "country": "unknown",
-    "source_id": "952938158",
-    "url": "https://github.com/MNoumanAwan/N8n-Automation-Tutorial",
-    "collected_at": "2025-09-02T11:10:05.980056+00:00",
+    "collected_at": "2025-09-02T15:14:30.403115+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "0e23e36437a978802fa903f203e787bce6ddebed",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "N8N-tutorial - This repository is part of the ForgeMind AI YouTube channel and is designed to help you get started with n8n, a powerful workflow automation tool.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1306,13 +1306,32 @@
     "country": "unknown",
     "source_id": "959586726",
     "url": "https://github.com/Forgemind-git/N8N-tutorial",
-    "collected_at": "2025-09-02T11:10:05.980056+00:00",
+    "collected_at": "2025-09-02T15:14:30.403115+00:00",
+    "score": 0.0,
+    "schema_version": "3"
+  },
+  {
+    "id": "a641295f68e63a0157986aa8f8e5c90b2613803b",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
+    "workflow": "N8n-Automation-Tutorial - An n8n workflow is created which gets data from a server, filter it, logs it into airtable and notify to a discord channel",
+    "platform": "GitHub",
+    "popularity_metrics": {
+      "views": null,
+      "likes": 0,
+      "comments": null,
+      "upvotes": 0,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "952938158",
+    "url": "https://github.com/MNoumanAwan/N8n-Automation-Tutorial",
+    "collected_at": "2025-09-02T15:14:30.403115+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "d004ee7032a2225e81cd3dc3d0ba0ff879549a4d",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "--AI_Agent_with_n8n - AI_Agent_with_n8n is a hands-on test project exploring AI Agent development using n8n. It draws from Udemy courses, YouTube tutorials, and documentation on courses; AI workflows and integrations.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1325,13 +1344,13 @@
     "country": "unknown",
     "source_id": "1000006943",
     "url": "https://github.com/Jeewan0406/--AI_Agent_with_n8n",
-    "collected_at": "2025-09-02T11:10:05.980056+00:00",
+    "collected_at": "2025-09-02T15:14:30.403115+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "9a0320956d685c89d0abbf6042cf5ff5dec02d32",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-comfyui - n8n node to integrate with ComfyUI stable diffusion workflows",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1344,13 +1363,13 @@
     "country": "unknown",
     "source_id": "915781369",
     "url": "https://github.com/mason276752/n8n-nodes-comfyui",
-    "collected_at": "2025-09-02T11:10:07.493007+00:00",
+    "collected_at": "2025-09-02T15:14:32.177123+00:00",
     "score": 0.000714,
     "schema_version": "3"
   },
   {
     "id": "bdb9d8aff37b67578c304a413622266ed29e960b",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "Claude-Project-to-n8n-Workflow - An n8n workflow 🤖 that integrates AI tools to process and respond to user queries efficiently, following best practices for node structure, error handling, and data management.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1363,13 +1382,13 @@
     "country": "unknown",
     "source_id": "963479000",
     "url": "https://github.com/MobinMithun/Claude-Project-to-n8n-Workflow",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 0.000253,
     "schema_version": "3"
   },
   {
     "id": "643b65a78e60003026634e36947ea4c3a9f20688",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-crypto-market-alert-system-with-binance-and-telegram-integration -  This project is another Nodemation (AKA: n8n) Free Workflow Template... ",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1382,13 +1401,13 @@
     "country": "unknown",
     "source_id": "812429008",
     "url": "https://github.com/Automations-Project/n8n-crypto-market-alert-system-with-binance-and-telegram-integration",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 0.000104,
     "schema_version": "3"
   },
   {
     "id": "326386027ece6d6f2c41c216c0c3d2e9da77c52a",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "mcp-n8n-server - MCP server for n8n API integration - Connect Claude AI to n8n workflows",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1401,13 +1420,13 @@
     "country": "unknown",
     "source_id": "957553141",
     "url": "https://github.com/ahmadsoliman/mcp-n8n-server",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 8.9e-05,
     "schema_version": "3"
   },
   {
     "id": "0603b7b1ad1d8b981bbcdbe44aa59ef364c11e78",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-the-mastodon - A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1420,13 +1439,13 @@
     "country": "unknown",
     "source_id": "975720632",
     "url": "https://github.com/redoracle/n8n-nodes-the-mastodon",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 8.9e-05,
     "schema_version": "3"
   },
   {
     "id": "79035ca2c09b92a76ff6224e262dfb26e60a142b",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "AI-Flow - Lets you build smart, AI workflows with a visual interface. Open-source, extensible, and powered by GPT. Perfect for automating content, processes, and integrations.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1439,13 +1458,32 @@
     "country": "unknown",
     "source_id": "980091457",
     "url": "https://github.com/icelaterdc/AI-Flow",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 8.2e-05,
     "schema_version": "3"
   },
   {
+    "id": "df38489e7acc3dc48b1a33fc5c2242a5b2f54502",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
+    "workflow": "n8n-automation-2025-AI-Agent-Suite - A comprehensive collection of n8n automation templates featuring AI agents, RAG systems, and enterprise workflows. Includes integrations for Gmail, WhatsApp, Telegram, Slack, and more. Future-ready automation solutions for 2025.",
+    "platform": "GitHub",
+    "popularity_metrics": {
+      "views": null,
+      "likes": 10,
+      "comments": null,
+      "upvotes": 10,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "990960878",
+    "url": "https://github.com/tannu64/n8n-automation-2025-AI-Agent-Suite",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
+    "score": 7.4e-05,
+    "schema_version": "3"
+  },
+  {
     "id": "1910fc5df7eccf77233d0afd0f58d90ad6616cf7",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-porter - A Python utility for seamless import and export of n8n workflows and credentials. Automates migration between environments, simplifies backups, and supports version control integration.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1458,13 +1496,13 @@
     "country": "unknown",
     "source_id": "961808023",
     "url": "https://github.com/dataprospectors-at/n8n-porter",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 5.9e-05,
     "schema_version": "3"
   },
   {
     "id": "a60d7bc3fc59879853cc7c83296bc3468578384c",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-substack - The n8n Substack node allows to integrate Substack with n8n workflows.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1477,13 +1515,13 @@
     "country": "unknown",
     "source_id": "1002884986",
     "url": "https://github.com/jakub-k-slys/n8n-nodes-substack",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 5.9e-05,
     "schema_version": "3"
   },
   {
     "id": "40b4d837db6442088c25aa33356fcfa16e175399",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-tmdb - \"n8n-nodes-tmdb\" enables seamless integration with The Movie Database (TMDb) in n8n workflows. Access comprehensive movie data effortlessly.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1496,13 +1534,13 @@
     "country": "unknown",
     "source_id": "781043575",
     "url": "https://github.com/hapheus/n8n-nodes-tmdb",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 5.9e-05,
     "schema_version": "3"
   },
   {
     "id": "a3c33b9c6ce3ed460ba6e0f591780a3f96d34744",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n_automation_hub -  Centralizedcollection of custom n8n workflows, nodes, and automation templates for streamlining tasks and integrations.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1515,13 +1553,13 @@
     "country": "unknown",
     "source_id": "987643614",
     "url": "https://github.com/SaurabhSSB/n8n_automation_hub",
-    "collected_at": "2025-09-02T11:10:07.494006+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 5.9e-05,
     "schema_version": "3"
   },
   {
     "id": "ffd39214cd95b095622f33fcc9da08af8c673bb9",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-operator - Kubernetes Operator for N8n, a fair-code workflow automation platform with native AI capabilities.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1534,13 +1572,13 @@
     "country": "unknown",
     "source_id": "956082544",
     "url": "https://github.com/jakub-k-slys/n8n-operator",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.178122+00:00",
     "score": 5.9e-05,
     "schema_version": "3"
   },
   {
     "id": "b3e7ee119ec841939e36a405d681fdf649fbb240",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-trendyol - n8n community node for Trendyol. Enables automation with Trendyol’s API, including order management, product data, and integration with other services. Useful for building end-to-end e-commerce workflows. Contributions welcome.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1553,13 +1591,32 @@
     "country": "unknown",
     "source_id": "1039274144",
     "url": "https://github.com/actuallyzefe/n8n-trendyol",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
+    "score": 5.9e-05,
+    "schema_version": "3"
+  },
+  {
+    "id": "6fc97a5e01e04b94f6ddaff8f6da300d5ecb5f81",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
+    "workflow": "gemini-cli-proxy-for-ollama - A local proxy that exposes Gemini CLI functionality through an Ollama-compatible API. It enables the use of Gemini models (via OAuth) in workflows built for Ollama without requiring an API key. Ideal for integration with external tools like n8n, Cline, agent frameworks, or custom frontends.",
+    "platform": "GitHub",
+    "popularity_metrics": {
+      "views": null,
+      "likes": 8,
+      "comments": null,
+      "upvotes": 8,
+      "like_to_view_ratio": null
+    },
+    "country": "unknown",
+    "source_id": "1015011831",
+    "url": "https://github.com/RoderickGrc/gemini-cli-proxy-for-ollama",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 5.9e-05,
     "schema_version": "3"
   },
   {
     "id": "896cf86eae38c7bbf177c56782308376e31a4d4e",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-uvx - Self-hosted N8N integration for MCP UVX servers via Docker—run UVX-powered MCP servers locally in your N8N workflows without any cloud dependency.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1572,13 +1629,13 @@
     "country": "unknown",
     "source_id": "988213738",
     "url": "https://github.com/The-AI-Workshops/n8n-uvx",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 5.2e-05,
     "schema_version": "3"
   },
   {
     "id": "a1c71b9de74a8ca2e5dffe57d7518701cd15dea1",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-assistant - This project is a lightweight context-aware assistant app that integrates with n8n to provide assistance with JSON formatting, workflow error correction, prompt writing, and other n8n-related tasks.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1591,13 +1648,13 @@
     "country": "unknown",
     "source_id": "994258544",
     "url": "https://github.com/BennyPixel/n8n-assistant",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 5.2e-05,
     "schema_version": "3"
   },
   {
     "id": "f9e1e6f436d8d9c8e7dca93550959c743418fe02",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "metriqe - 📘 Metriqe AI Training Repository – A curated collection of hands-on course materials and code for Metriqe’s corporate training in Python and Generative AI. This repo includes examples and notebooks covering core Python, OpenAI chatbots, LangChain workflows with LangFlow, LangGraph multimodal agents, Google A2A & Anthropic MCP integrations.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1610,32 +1667,13 @@
     "country": "unknown",
     "source_id": "1021613562",
     "url": "https://github.com/hereandnowai/metriqe",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
-    "score": 5.2e-05,
-    "schema_version": "3"
-  },
-  {
-    "id": "6fc97a5e01e04b94f6ddaff8f6da300d5ecb5f81",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
-    "workflow": "gemini-cli-proxy-for-ollama - A local proxy that exposes Gemini CLI functionality through an Ollama-compatible API. It enables the use of Gemini models (via OAuth) in workflows built for Ollama without requiring an API key. Ideal for integration with external tools like n8n, Cline, agent frameworks, or custom frontends.",
-    "platform": "GitHub",
-    "popularity_metrics": {
-      "views": null,
-      "likes": 7,
-      "comments": null,
-      "upvotes": 7,
-      "like_to_view_ratio": null
-    },
-    "country": "unknown",
-    "source_id": "1015011831",
-    "url": "https://github.com/RoderickGrc/gemini-cli-proxy-for-ollama",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 5.2e-05,
     "schema_version": "3"
   },
   {
     "id": "6b6866b68b2c9adb14b26391baa4fa1807b5dafd",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-pgp - n8n-nodes-pgp enables seamless integration of PGP encryption functionalities into n8n workflows. Create keys, encrypt, decrypt, sign, and verify messages effortlessly. Perfect for secure data handling in automated workflows.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1648,13 +1686,13 @@
     "country": "unknown",
     "source_id": "779931297",
     "url": "https://github.com/hapheus/n8n-nodes-pgp",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 3.7e-05,
     "schema_version": "3"
   },
   {
     "id": "33ac56ca4a24b2c2ec3170a07675d83fe8881a59",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-retellai - Integrate Retell AI voice agents seamlessly into any workflow using the n8n platform.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1667,13 +1705,13 @@
     "country": "unknown",
     "source_id": "966520593",
     "url": "https://github.com/RetellAI/n8n-nodes-retellai",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 3.7e-05,
     "schema_version": "3"
   },
   {
     "id": "2c0bf0b06eaccac10981db6ecc1f13f016e36392",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8nsyncro - n8n workflows that integrate with Syncro",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1686,13 +1724,13 @@
     "country": "unknown",
     "source_id": "355984361",
     "url": "https://github.com/bionemesis/n8nsyncro",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 3.7e-05,
     "schema_version": "3"
   },
   {
     "id": "278d825df9e8508b9befead44e8d69df0c0a5df1",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-duckduckgo - Community node for integrating DuckDuckGo search into n8n workflows",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1705,13 +1743,13 @@
     "country": "unknown",
     "source_id": "973667701",
     "url": "https://github.com/samnodehi/n8n-nodes-duckduckgo",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 3.7e-05,
     "schema_version": "3"
   },
   {
     "id": "eb385943679ca0c3b528a757b25c9b2db3813b77",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "integrations-templates - Ready-to-use automation templates for AI-powered data enrichment with n8n and Make workflows",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1724,13 +1762,13 @@
     "country": "unknown",
     "source_id": "1000865825",
     "url": "https://github.com/explorium-ai/integrations-templates",
-    "collected_at": "2025-09-02T11:10:07.495007+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 3.7e-05,
     "schema_version": "3"
   },
   {
     "id": "0e2061c32fd60ad2f8168cb92004be7ecf5cc9fc",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-nodes-olvid - n8n nodes to integrate Olvid in your workflows.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1743,13 +1781,13 @@
     "country": "unknown",
     "source_id": "943344017",
     "url": "https://github.com/olvid-io/n8n-nodes-olvid",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.179123+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "b9f89ed6f28a38c7d301e47dda94a01c779a73e1",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-webhook-kakaotalk-msgbot-integration - workflow 템플릿과 msg봇 몇몇 세팅이 되어있다면 카카오톡에서 n8n의 결과를 받아볼 수 있음",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1762,13 +1800,13 @@
     "country": "unknown",
     "source_id": "1020191102",
     "url": "https://github.com/hotorch/n8n-webhook-kakaotalk-msgbot-integration",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180042+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "b3a562c635aaabe4296d735d41235ebdc4bd8069",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "paperless-ngx-n8n-integration - Simplify your document workflow with paperless-ngx and n8n automation",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1781,13 +1819,13 @@
     "country": "unknown",
     "source_id": "952363464",
     "url": "https://github.com/PDangelmaier/paperless-ngx-n8n-integration",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180042+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "d09431e1c88e8eeec29d900f9d4f7dc9b5e13a17",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-python-integration - Bridge the gap between n8n's visual workflows and production Python applications. This repository demonstrates how to convert, integrate, and execute n8n workflows within Python code, allowing teams to leverage both low-code development and programmatic flexibility.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1800,13 +1838,13 @@
     "country": "unknown",
     "source_id": "960120391",
     "url": "https://github.com/MuLIAICHI/n8n-python-integration",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180042+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "b0459b09629e1e95fbaee371ca28e35a371b5a21",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "N8N-openAI - Turn Your OpenAPI (Swagger) spec into a n8n node!",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1819,13 +1857,13 @@
     "country": "unknown",
     "source_id": "1021393456",
     "url": "https://github.com/tomash-dev/N8N-openAI",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180042+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "aa5d6b2cf9f15bfcf8981ccc351ec86b5ca3a9cc",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-redis-anyway - This is an n8n community node that provides easy integration with Redis for caching data with expiration support and conditional workflow routing based on cache validity.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1838,13 +1876,13 @@
     "country": "unknown",
     "source_id": "950965766",
     "url": "https://github.com/MatheusKindrazki/n8n-redis-anyway",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180042+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "d4659f9087eedeebf45f3f977c67075fd339d520",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "N8N-Agent-for-discord - Built an n8n-powered agent to automate Discord interactions using webhooks and API nodes. Enables real-time bot responses, message automation, and workflow integration in Discord servers.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1857,13 +1895,13 @@
     "country": "unknown",
     "source_id": "1014420128",
     "url": "https://github.com/Alfredd43/N8N-Agent-for-discord",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180042+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "0801222ea35cc96af89f282d04e32bf6a48ae670",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "redoracle-n8n - A comprehensive, modular set of n8n custom nodes and integrations tailored for scraping, security, automation, and threat intelligence workflows. These plugins are designed to streamline tasks such as web content extraction, IP reputation checks, breach monitoring, and automated notifications.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1876,13 +1914,13 @@
     "country": "unknown",
     "source_id": "905304894",
     "url": "https://github.com/redoracle/redoracle-n8n",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180551+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "9d6c868b0a652230380d277927ac71c82713cb1b",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "PSApify - PSAPify is a PowerShell module for interacting with the Apify platform and integrating with n8n workflows. It provides functions to run Apify actors, retrieve their results, and export data to n8n via webhooks.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1895,13 +1933,13 @@
     "country": "unknown",
     "source_id": "985478708",
     "url": "https://github.com/SharkByte561/PSApify",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180551+00:00",
     "score": 2.2e-05,
     "schema_version": "3"
   },
   {
     "id": "ce3027f4fa3075215ece9e843022f2db9524a271",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "Voice-Driven-Automation-Builder - A real-time, voice-controlled automation interface that uses the browser’s built-in WebKit Speech Recognition API to convert speech to text and seamlessly integrate with the n8n open-source workflow automation platform. This enables users to build, manage, and trigger workflows using only their voice",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1914,13 +1952,13 @@
     "country": "unknown",
     "source_id": "791412865",
     "url": "https://github.com/Gowtham0810-hype/Voice-Driven-Automation-Builder",
-    "collected_at": "2025-09-02T11:10:07.496005+00:00",
+    "collected_at": "2025-09-02T15:14:32.180551+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "0b47e5e130ac0f1c42a12dc002f1217fe1b60ee2",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-csharp-sample - Simple example has been created to communicate with the Workflow Automation Tool n8n by c#.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1933,13 +1971,13 @@
     "country": "unknown",
     "source_id": "339991075",
     "url": "https://github.com/kalhorim/n8n-csharp-sample",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.217080+00:00",
     "score": 5.2e-05,
     "schema_version": "3"
   },
   {
     "id": "e0ebb2689b6af995aa77747c6387999fc33e2f60",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "FlowLab - 🧪 Your personal automation laboratory - Deploy n8n, AI tools, and workflow automation on Raspberry Pi in minutes. Self-hosted, privacy-first, with 2000+ community workflow examples.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1952,13 +1990,13 @@
     "country": "unknown",
     "source_id": "1006670406",
     "url": "https://github.com/ilanKushnir/FlowLab",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.217080+00:00",
     "score": 3e-05,
     "schema_version": "3"
   },
   {
     "id": "ffd4973c493132ac84fac86ad6a2e6c52f4479d5",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n - ThinkAI workflow automations with native AI capabilities. 1200 practical n8n workflow examples made by ThinkAI ",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1971,13 +2009,13 @@
     "country": "unknown",
     "source_id": "1014282580",
     "url": "https://github.com/CiprianVladGherga/n8n",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.217080+00:00",
     "score": 1.5e-05,
     "schema_version": "3"
   },
   {
     "id": "fb9bdc58f3340b79b6f0ee59afad6f64b4919ede",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "Blog-Website-Updates - This entire README.md file is dynamically updated by our custom n8n.io workflow every time a new article is published on our main website. This process serves as a practical example of leveraging automation for content syndication and creating high-authority backlinks.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -1990,13 +2028,13 @@
     "country": "unknown",
     "source_id": "1021580592",
     "url": "https://github.com/Vertex-Web/Blog-Website-Updates",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.217080+00:00",
     "score": 1.5e-05,
     "schema_version": "3"
   },
   {
     "id": "b1aa41e97fcaca636413e7d871ac13bc07d79bd8",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-workflows - A growing collection of community-driven n8n automation workflows with documentation, best practices, and real-world examples.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2009,13 +2047,13 @@
     "country": "unknown",
     "source_id": "1022786013",
     "url": "https://github.com/andrewluxem/n8n-workflows",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.217080+00:00",
     "score": 7e-06,
     "schema_version": "3"
   },
   {
     "id": "6fce17cfdee399d02923f0c9b300192dbd044875",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "platformsh-n8n - An example configuration for n8n workflow automation on Platform.sh",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2028,13 +2066,13 @@
     "country": "unknown",
     "source_id": "506769860",
     "url": "https://github.com/gokepelemo/platformsh-n8n",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 7e-06,
     "schema_version": "3"
   },
   {
     "id": "c08c7f4f39659596a3ce35d42b5fca0db6ccd7f2",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "Desbloqueando-la-Automatizacion-con-IA - El rol estratégico de herramientas como N8N para los ISP (Presentacion para la ExpoISP 2025)",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2047,13 +2085,13 @@
     "country": "unknown",
     "source_id": "1006286412",
     "url": "https://github.com/tecno-consultores/Desbloqueando-la-Automatizacion-con-IA",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 7e-06,
     "schema_version": "3"
   },
   {
     "id": "5b15f1351a2cfbe5923702aaf2768205d547d7c3",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n - n8n workflow automation platform - based on render-examples/n8n template",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2066,13 +2104,13 @@
     "country": "unknown",
     "source_id": "1048096566",
     "url": "https://github.com/merchbotai/n8n",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "42ba1c6f60f53fb2c9283a4f590fcd6ae049f91d",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "n8n-workflow - This is a repository for examples N8N - workflow automation using IFTTT",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2085,13 +2123,13 @@
     "country": "unknown",
     "source_id": "787274478",
     "url": "https://github.com/aoberest/n8n-workflow",
-    "collected_at": "2025-09-02T11:10:08.415895+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "f10291306e2a6cb3b09b182f6456be8915a42e7d",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "copilot-n8n-workflows - n8n workflows and automation examples exported from local instance.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2104,13 +2142,13 @@
     "country": "unknown",
     "source_id": "1045622055",
     "url": "https://github.com/musaada141/copilot-n8n-workflows",
-    "collected_at": "2025-09-02T11:10:08.416894+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "d94267864866daa6563c578b2ba201a433cb3f99",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "N8n-workflows - A collection of AI and automation projects built using n8n. Includes real-world examples like AI image generators, voice agents, and workflow automations, showcasing my expertise in AI development, prompt engineering, and business automation.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2123,13 +2161,13 @@
     "country": "unknown",
     "source_id": "1022421646",
     "url": "https://github.com/knabinbhandari/N8n-workflows",
-    "collected_at": "2025-09-02T11:10:08.416894+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "6615e5ff58edcd413e1b67fbed810c87f464b49f",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "N8N-Automations - A personal exploration of n8n automation from scratch. This repo includes brief notes, practical projects and clear examples to help anyone build real workflows.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2142,13 +2180,13 @@
     "country": "unknown",
     "source_id": "1028642158",
     "url": "https://github.com/wabo-kabrel/N8N-Automations",
-    "collected_at": "2025-09-02T11:10:08.416894+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "044a1d6262230d8f799aa27b6ae04c83864d81ba",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "Learning-n8n - A learning repository for exploring n8n, an open-source workflow automation tool. This repo includes practice workflows, automation examples, and notes while learning how to connect different apps and services with n8n",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2161,13 +2199,13 @@
     "country": "unknown",
     "source_id": "1041534601",
     "url": "https://github.com/coding-with-saad/Learning-n8n",
-    "collected_at": "2025-09-02T11:10:08.416894+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "b43004cc0ba473a9e9091194e60034bd3bbb49be",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "Automation-Templates-n8n - A collection of reusable n8n workflows and automation templates. Includes custom integrations, data handling flows, and examples for streamlining tasks using the n8n automation platform.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2180,13 +2218,13 @@
     "country": "unknown",
     "source_id": "1033827751",
     "url": "https://github.com/Dhruvnthakur/Automation-Templates-n8n",
-    "collected_at": "2025-09-02T11:10:08.416894+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "eef92e20d446c57400838b08ac347aa841d615b6",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "automation-starter - A starter repo for automation, AI prompt engineering, and workflow management. Useful examples for n8n, ChatGPT, Claude, and Shopify.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2199,13 +2237,13 @@
     "country": "unknown",
     "source_id": "1032656068",
     "url": "https://github.com/M-SandC/automation-starter",
-    "collected_at": "2025-09-02T11:10:08.416894+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "b0cfc38ed34a1baea8dce0aa5914a84e5d9b2273",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "discord-bot-to-n8n-example - Discord Bot to n8n Example - A minimal, production-ready example of a Discord gateway bot that triggers n8n workflows via webhooks. Includes slash command registration, event handling, environment-based config, and Docker support for fast, out-of-the-box deployment and easy integration into automation pipelines.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2218,13 +2256,13 @@
     "country": "unknown",
     "source_id": "1035225701",
     "url": "https://github.com/javidjamae/discord-bot-to-n8n-example",
-    "collected_at": "2025-09-02T11:10:08.416894+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   },
   {
     "id": "181b322ec9ef13fd806c0fdd6e7e37acf63ade53",
-    "run_id": "849fdff3-1647-4533-80e2-2acd5fbc03c8",
+    "run_id": "2f9d40eb-a067-49ee-83c4-c84667660766",
     "workflow": "AIVIS-MCP - A collection of resources, guides, and examples from AIVIS (AIML club at BNMIT) covering large language models (LLMs), AI APIs, Ollama, Groq.com, Gemini, workflow automation with n8n, and AI agents.",
     "platform": "GitHub",
     "popularity_metrics": {
@@ -2237,7 +2275,7 @@
     "country": "unknown",
     "source_id": "1025635608",
     "url": "https://github.com/Visy6git/AIVIS-MCP",
-    "collected_at": "2025-09-02T11:10:08.416894+00:00",
+    "collected_at": "2025-09-02T15:14:33.218081+00:00",
     "score": 0.0,
     "schema_version": "3"
   }
