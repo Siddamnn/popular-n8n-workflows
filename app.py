@@ -31,7 +31,8 @@ from aiolimiter import AsyncLimiter
 from diskcache import Cache
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, __version__ as PYDANTIC_VERSION
-from pytrends.request import TrendReq
+
+# Removed pytrends (trends disabled)
 
 # Configuration from environment variables
 SCHEMA_VERSION = "3"  # bump when changing output structure
@@ -80,13 +81,11 @@ RATE_LIMITERS = {
     "youtube": AsyncLimiter(100, 100),
     "github": (AsyncLimiter(60, 60) if GITHUB_TOKEN else AsyncLimiter(10, 60)),
     "reddit": AsyncLimiter(60, 60),
-    "trends": AsyncLimiter(1, 5),
-    "forum": AsyncLimiter(5, 10),  # new
-    "search": AsyncLimiter(5, 10),  # new
+    "forum": AsyncLimiter(5, 10),
 }
 
 # Sources list constant
-ALL_SOURCES = ["youtube", "trends", "github", "reddit", "forum", "search"]  # extended
+ALL_SOURCES = ["youtube", "github", "reddit", "forum"]
 VALID_SOURCES = ["all", *ALL_SOURCES]
 
 # Core keyword set for all collectors (user-defined for broader coverage)
@@ -123,16 +122,12 @@ FORUM_CATEGORY_IDS = [
 # Worker related (async version uses gather; values kept for parity / future thread usage)
 FORUM_MAX_WORKERS = int(os.getenv("FORUM_MAX_WORKERS", "5"))
 PIPELINE_MAX_WORKERS = int(os.getenv("PIPELINE_MAX_WORKERS", "8"))
+SEARCH_PAGES = int(os.getenv("SEARCH_PAGES", "2"))  # each page ~50 parsed links
 
 # Runtime flags (STOP_ON_COMPLETE disabled by design now)
 STOP_ON_COMPLETE = False  # Forced off per option A
 
-# Global flag to skip further Trends queries after a 429
-TRENDS_RATE_LIMITED = False
-TRENDS_MAX_RETRIES = int(os.getenv("TRENDS_MAX_RETRIES", "3"))  # new
-TRENDS_BACKOFF_BASE = float(os.getenv("TRENDS_BACKOFF_BASE", "5"))  # new
-_GLOBAL_TRENDS_CLIENT: Optional[TrendReq] = None  # new
-# Global YouTube quota/forbidden stop flag
+# Removed trends config variables
 YOUTUBE_FORBIDDEN = False
 
 # Track last completed job id
@@ -291,11 +286,8 @@ class DataCollector:
 
         results: List[WorkflowEntry] = []
         target = target_count or 0
-        global YOUTUBE_FORBIDDEN
+        # Former logic restored: do NOT globally stop after first 403; just skip that page/query.
         for query in queries:
-            if YOUTUBE_FORBIDDEN:
-                print("[youtube] Skipping remaining queries due to prior 403 flag.")
-                break
             next_page: Optional[str] = None
             page = 0
             while True:
@@ -314,7 +306,7 @@ class DataCollector:
                         results.extend(cached_data)
                         if len(results) >= target and target:
                             break
-                        next_page = None  # don't attempt to chain after cached page
+                        next_page = None
                         continue
                     try:
                         search_url = "https://www.googleapis.com/youtube/v3/search"
@@ -399,13 +391,8 @@ class DataCollector:
                         if not next_page:
                             break
                     except httpx.HTTPStatusError as e:
-                        if e.response.status_code == 403:
-                            YOUTUBE_FORBIDDEN = True
-                            print(
-                                f"[youtube] 403 encountered for query '{query}' page {page}; setting stop flag."
-                            )
                         print(
-                            f"Error collecting YouTube data for query '{query}' page {page}: {e}"
+                            f"[youtube] HTTP error query='{query}' page={page} status={e.response.status_code}: {e}"
                         )
                         break
                     except Exception as e:
@@ -504,153 +491,7 @@ class DataCollector:
                         break
         return results
 
-    async def collect_trends_data(self, queries: List[str]) -> List[WorkflowEntry]:
-        """Collect workflow data from Google Trends with retry/backoff."""
-        results: List[WorkflowEntry] = []
-        global TRENDS_RATE_LIMITED  # ensure declared before inner use
-        for query in queries:
-            if TRENDS_RATE_LIMITED:
-                print(
-                    "[trends] Skipping remaining queries due to prior rate-limit flag."
-                )
-                break
-            async with GLOBAL_SEMAPHORE:
-                await RATE_LIMITERS["trends"].acquire()
-                cache_key = f"trends_{query}"
-                cached_data = cache.get(cache_key)
-                if cached_data:
-                    results.extend(cached_data)
-                    continue
-                attempt = 0
-                while attempt < TRENDS_MAX_RETRIES:
-                    try:
-                        loop = asyncio.get_event_loop()
-                        trend_data = await loop.run_in_executor(
-                            None, self._get_trends_data, query
-                        )
-                        if (
-                            not trend_data
-                            and (
-                                RUN_MODE == "demo"
-                                or os.getenv("TRENDS_ALLOW_DEMO", "0") == "1"
-                            )
-                            and attempt == TRENDS_MAX_RETRIES - 1
-                        ):
-                            ts = datetime.now(timezone.utc).isoformat()
-                            fallback = WorkflowEntry(
-                                workflow=f"Google Trends (fallback demo): {query}",
-                                platform="Google Trends",
-                                popularity_metrics={
-                                    "views": 0,
-                                    "likes": None,
-                                    "comments": None,
-                                    "upvotes": None,
-                                    "like_to_view_ratio": None,
-                                },
-                                country="US",
-                                source_id=f"trends_demo_{normalize_title(query)}",
-                                url=f"https://trends.google.com/trends/explore?q={query}",
-                                collected_at=ts,
-                                id=compute_entry_id(
-                                    "Google Trends",
-                                    f"trends_demo_{normalize_title(query)}",
-                                    query,
-                                ),
-                            )
-                            trend_data = [fallback]
-                        cache.set(cache_key, trend_data, expire=CACHE_TTL)
-                        results.extend(trend_data)
-                        break
-                    except Exception as e:
-                        attempt += 1
-                        if "429" in str(e):
-                            print(
-                                f"[trends] 429 encountered at attempt {attempt} for '{query}'"
-                            )
-                            TRENDS_RATE_LIMITED = True
-                            break
-                        if attempt >= TRENDS_MAX_RETRIES:
-                            print(
-                                f"[trends] Failed '{query}' after {attempt} attempts: {e}"
-                            )
-                            break
-                        sleep_for = TRENDS_BACKOFF_BASE * (
-                            2 ** (attempt - 1)
-                        ) + random.uniform(0, 2)
-                        print(
-                            f"[trends] attempt {attempt} err for '{query}': {e}; retry in {sleep_for:.1f}s"
-                        )
-                        await asyncio.sleep(sleep_for)
-        return results
-
-    def _get_trends_data(self, query: str) -> List[WorkflowEntry]:
-        """Get Google Trends data synchronously."""
-        try:
-            global _GLOBAL_TRENDS_CLIENT
-            if _GLOBAL_TRENDS_CLIENT is None:
-                _GLOBAL_TRENDS_CLIENT = TrendReq(hl="en-US", tz=360)
-            pytrends = _GLOBAL_TRENDS_CLIENT
-            pytrends.build_payload(
-                [query], cat=0, timeframe="today 12-m", geo="US", gprop=""
-            )
-
-            interest_data = pytrends.interest_over_time()
-            if interest_data.empty:
-                print(f"[trends] interest_over_time empty for query '{query}'")
-                return []
-
-            # Create a single entry representing the trend
-            avg_interest = (
-                int(interest_data[query].mean())
-                if not interest_data[query].empty
-                else 0
-            )
-            # Trend growth: (last - first)/first (normalized growth), guard division by zero
-            first_val = (
-                int(interest_data[query].iloc[0])
-                if not interest_data[query].empty
-                else 0
-            )
-            last_val = (
-                int(interest_data[query].iloc[-1])
-                if not interest_data[query].empty
-                else 0
-            )
-            trend_growth = (last_val - first_val) / first_val if first_val > 0 else 0.0
-
-            normalized = normalize_title(f"Google Trends: {query}")
-            if normalized not in self.seen_titles:
-                self.seen_titles.add(normalized)
-
-                return [
-                    WorkflowEntry(
-                        workflow=f"Google Trends: {query}",
-                        platform="Google Trends",
-                        popularity_metrics={
-                            "views": avg_interest,
-                            "likes": None,
-                            "comments": None,
-                            "upvotes": None,
-                            "like_to_view_ratio": None,
-                            "trend_growth": trend_growth,
-                        },
-                        country="US",
-                        source_id=f"trends_{query}",
-                        url=f"https://trends.google.com/trends/explore?q={query}",
-                        collected_at=datetime.now(timezone.utc).isoformat(),
-                        id=compute_entry_id("Google Trends", f"trends_{query}", query),
-                    )
-                ]
-            return []
-        except Exception:
-            import traceback
-
-            tb = traceback.format_exc()
-            print(f"[trends] Exception for query '{query}':\n{tb}")
-            if "TooManyRequestsError" in tb or "429" in tb:
-                global TRENDS_RATE_LIMITED
-                TRENDS_RATE_LIMITED = True
-            return []
+    # trends collection removed
 
     async def collect_reddit_data(
         self, queries: List[str], target_count: Optional[int] = None
@@ -826,61 +667,7 @@ class DataCollector:
                     continue
         return all_entries
 
-    async def collect_search_data(
-        self, queries: List[str], pages: int = 1
-    ) -> List[WorkflowEntry]:
-        """Collect DuckDuckGo search results (light HTML parsing)."""
-        results: List[WorkflowEntry] = []
-        headers = {"User-Agent": "Mozilla/5.0 (compatible; n8n-collector/1.0)"}
-        for q in queries:
-            for p in range(pages):
-                async with GLOBAL_SEMAPHORE:
-                    await RATE_LIMITERS["search"].acquire()
-                    start = p * 50
-                    url = f"https://duckduckgo.com/html/?q={url_quote(q)}&s={start}"
-                    try:
-                        resp = await self.client.get(url, headers=headers)
-                        if resp.status_code != 200:
-                            break
-                        text = resp.text
-                    except Exception as e:
-                        print(f"[search] q='{q}' page={p} error: {e}")
-                        break
-                    for m in re.finditer(
-                        r'<a[^>]+class="result__a"[^>]*href="(.*?)"[^>]*>(.*?)</a>',
-                        text,
-                    ):
-                        href = m.group(1)
-                        title_html = m.group(2)
-                        title = re.sub(r"<.*?>", " ", title_html)
-                        title = re.sub(r"\s+", " ", title).strip()
-                        if not href or not title:
-                            continue
-                        if "workflow" not in title.lower():
-                            continue
-                        norm = normalize_title(title)
-                        if norm in self.seen_titles:
-                            continue
-                        self.seen_titles.add(norm)
-                        sid = hashlib.sha1(href.encode()).hexdigest()
-                        entry = WorkflowEntry(
-                            workflow=title,
-                            platform="Web Search",
-                            popularity_metrics={
-                                "views": None,
-                                "likes": None,
-                                "comments": None,
-                                "upvotes": None,
-                                "like_to_view_ratio": None,
-                            },
-                            country="unknown",
-                            source_id=sid,
-                            url=href,
-                            collected_at=datetime.now(timezone.utc).isoformat(),
-                            id=compute_entry_id("Web Search", sid, title),
-                        )
-                        results.append(entry)
-        return results
+    # search collection removed
 
     def _get_demo_youtube_data(self) -> List[WorkflowEntry]:
         """Return demo YouTube data when API key is not available."""
@@ -1018,17 +805,12 @@ async def collect_source_data(source: str, job_id: str):
                 results = await collector.collect_github_data(
                     queries, target_count=targets.get("github")
                 )
-            elif source == "trends":
-                results = await collector.collect_trends_data(queries)
             elif source == "reddit":
                 results = await collector.collect_reddit_data(
                     queries, target_count=targets.get("reddit")
                 )
             elif source == "forum":
                 results = await collector.collect_forum_data()
-            elif source == "search":
-                pages = int(os.getenv("SEARCH_PAGES", "1"))
-                results = await collector.collect_search_data(queries, pages=pages)
             else:
                 raise ValueError(f"Unknown source: {source}")
 
@@ -1155,20 +937,10 @@ def compute_scores_for_source(source: str, entries: List[WorkflowEntry]):
                 sum(weights[m] * normalized_vectors[m][idx] for m in weights), 6
             )
         return
-    if source == "trends":
-        interest = _normalize([e.popularity_metrics.get("views") for e in entries])
-        growth = _normalize([e.popularity_metrics.get("trend_growth") for e in entries])
-        for i, e in enumerate(entries):
-            e.score = round(0.6 * interest[i] + 0.4 * growth[i], 6)
-        return
     if source == "github":
         stars = _normalize([e.popularity_metrics.get("likes") for e in entries])
         for i, e in enumerate(entries):
             e.score = round(stars[i], 6)
-        return
-    if source == "search":
-        for e in entries:
-            e.score = 0.0
         return
 
 
@@ -1331,11 +1103,11 @@ async def root():
         "version": "1.0.0",
         "mode": RUN_MODE,
         "endpoints": {
-            "collect": "/collect?source=all|youtube|trends|github|reddit|forum|search",
+            "collect": "/collect?source=all|youtube|github|reddit|forum",
             "status": "/status/{job_id}",
             "results": "/results/{source}",
-            "rankings": "/rankings?source=all|youtube|trends|github|reddit|forum|search&limit=50",
-            "trending": "/trending?source=all|youtube|trends|github|reddit|forum|search&limit=100",
+            "rankings": "/rankings?source=all|youtube|github|reddit|forum&limit=50",
+            "trending": "/trending?source=all|youtube|github|reddit|forum&limit=100",
             "export_json": "/export/json?history=0",
             "export_csv": "/export/csv?history=0",
         },
@@ -1464,13 +1236,7 @@ def load_history_stream(limit: Optional[int] = None) -> Iterable[Dict[str, Any]]
     return gen()
 
 
-ALIAS_MAP = {
-    "yt": "youtube",
-    "gh": "github",
-    "git": "github",
-    "forums": "forum",
-    "web": "search",
-}
+ALIAS_MAP = {"yt": "youtube", "gh": "github", "git": "github", "forums": "forum"}
 
 
 @app.get("/trending")
